@@ -1,18 +1,14 @@
 using System.Collections;
 using System.Collections.Generic;
+using TMPro;
 using UnityEngine;
 
 public class HandScript : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+    public TextMeshProUGUI text;
 
-    // Update is called once per frame
-    void Update()
+    public void setUIText(string t)
     {
-        
+        text.SetText(t);
     }
 }
