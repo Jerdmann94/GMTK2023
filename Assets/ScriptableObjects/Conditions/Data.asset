@@ -9,7 +9,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3c081c856525ae6448791c8c180696aa, type: 3}
-  m_Name: GreaterThan
-  m_EditorClassIdentifier: 
-  conditionEnum: 0
+  m_Script: {fileID: 0}
+  m_Name: Data
+  m_EditorClassIdentifier: Assembly-CSharp::ConditionSO
+  key: 
+  value: 
+  op: 0
