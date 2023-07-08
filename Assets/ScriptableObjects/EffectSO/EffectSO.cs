@@ -4,6 +4,17 @@ using UnityEngine;
 [CreateAssetMenu(fileName = "Data", menuName = "Card/EffectSO")]
 public class EffectSO : ScriptableObject
 {
-    public EffectOperatorSO effectSo;
-    public int effectValue;
+    public EffectOperator op;
+    public string key;
+    public int value;
+}
+
+public enum EffectOperator
+{
+    IncreaseState,
+    ReduceState,
+    IncreasePlayer,
+    ReducePlayer,
+    GiveItem,
+    UseItem
 }

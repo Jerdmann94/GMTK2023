@@ -4,11 +4,17 @@ using UnityEngine;
 
 public class EffectObject
 {
-    public int effectValue;
-    public EffectEnum effectEnum;
+    public EffectOperator op;
+    public string key;
+    public int value;
     public EffectObject(EffectSO effectSo)
     {
-        effectValue = effectSo.effectValue;
-        effectEnum = effectSo.effectSo.effectEnum;
+        key = effectSo.key;
+        value = effectSo.value;
+        op = effectSo.op;
     }
+    
+    public void Resolve(PlayerData player, CardObject card) {}
+    
+    //don't mutate data directly
 }
