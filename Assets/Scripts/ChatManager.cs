@@ -24,14 +24,6 @@ public class ChatManager : MonoBehaviour
             Destroy(toDelete.textObject.gameObject);
         }
     }
-
-    private void Update()
-    {
-        if (Input.GetKeyDown("a"))
-        {
-            makeChatMessage("a");
-        }
-    }
 }
 
 public class Message

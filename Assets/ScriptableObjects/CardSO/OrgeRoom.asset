@@ -13,3 +13,5 @@ MonoBehaviour:
   m_Name: OrgeRoom
   m_EditorClassIdentifier: 
   statementSos: []
+  cardSelectText: Ogre room
+  cardHoverText: 

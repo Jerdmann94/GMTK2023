@@ -10,6 +10,8 @@ public class CardManager : MonoBehaviour
 
     public List<HandScript> handUi;
 
+    public ChatManager chatManager;
+
     // CARD DATA
     public List<CardSO> cardSos;
     private Queue<CardObject> _deck = new Queue<CardObject>();
@@ -31,7 +33,17 @@ public class CardManager : MonoBehaviour
         }
     }
 
+    public void chooseCard(int i)
+    {
+        chatManager.makeChatMessage(_hand[i].chosenText);
+        foreach (var statementObject in _hand[i].statementObjects)
+        {
+            statementObject.evaluate();
+        }
+    }
+
     //DATA METHODS
+
 
     public void initDeck()
     {
