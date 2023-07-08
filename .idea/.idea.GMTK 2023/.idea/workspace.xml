@@ -4,21 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2618cb58-533d-4ef1-8b5d-a1e5602ad518" name="Changes" comment="repush">
+    <list default="true" id="2618cb58-533d-4ef1-8b5d-a1e5602ad518" name="Changes" comment="sat morning">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.GMTK 2023/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GMTK 2023/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Scene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/CardSO.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/CardSO.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/OrgeRoom.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/OrgeRoom.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/ConditionSO/ConditionSO.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/ConditionSO/HasKey.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/Conditions/ConditionOperatorSO.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/Conditions/GreaterThan.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/Conditions/HasItem.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/Conditions/LessThan.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/ConditionOperator.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/Conditions.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/Conditions/CondtionSO.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/Conditions/CondtionSO.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/Conditions/Data.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/Conditions/Data.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/StatementSO.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/StatementSO.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/CardManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CardManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CardObject.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CardObject.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ChatManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ChatManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/HandScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/HandScript.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ConditionObject.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ConditionObject.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerData.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerStatUIManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerStatUIManager.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/StatementObject.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/StatementObject.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,6 +27,8 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/ScriptableObjects/ConditionSO/ConditionSO.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/erdma/GMTK 2023/Assets/Scripts/CardManager.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CardObject.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ConditionObject.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/HandScript.cs" root0="FORCE_HIGHLIGHTING" />
@@ -101,7 +103,7 @@
       <workItem from="1688679612641" duration="276000" />
       <workItem from="1688735715964" duration="180000" />
       <workItem from="1688763298619" duration="15007000" />
-      <workItem from="1688816574239" duration="2363000" />
+      <workItem from="1688816574239" duration="6197000" />
     </task>
     <task id="LOCAL-00001" summary="Init">
       <created>1688735857323</created>
@@ -159,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688816783262</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="sat morning">
+      <created>1688819381291</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1688819381291</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,7 +198,8 @@
     <MESSAGE value="adding gitignore" />
     <MESSAGE value="meta files" />
     <MESSAGE value="repush" />
-    <option name="LAST_COMMIT_MESSAGE" value="repush" />
+    <MESSAGE value="sat morning" />
+    <option name="LAST_COMMIT_MESSAGE" value="sat morning" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>

@@ -17,8 +17,12 @@ public class CardManager : MonoBehaviour
     private Queue<CardObject> _deck = new Queue<CardObject>();
 
     private List<CardObject> _hand = new List<CardObject>();
-    //UI METHODS
 
+    // PLAYER DATA
+    public PlayerData playerData;
+
+
+    //UI METHODS
     public void displayCard(GameObject card)
     {
         var c = Instantiate(card, CardUIParent);
@@ -38,7 +42,7 @@ public class CardManager : MonoBehaviour
         chatManager.makeChatMessage(_hand[i].chosenText);
         foreach (var statementObject in _hand[i].statementObjects)
         {
-            statementObject.evaluate();
+            Debug.Log(statementObject.evaluate(playerData));
         }
     }
 

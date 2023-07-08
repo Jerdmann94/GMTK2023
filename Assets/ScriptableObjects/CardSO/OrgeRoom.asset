@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5628eaf73b6bb574594378f907081f73, type: 3}
   m_Name: OrgeRoom
   m_EditorClassIdentifier: 
-  statementSos: []
+  statementSos:
+  - {fileID: 11400000, guid: 1306c6c8d9829934a8096b1d2780659c, type: 2}
   cardSelectText: Ogre room
   cardHoverText: 

@@ -1,10 +1,11 @@
 using System;
 using System.Collections.Generic;
+using UnityEngine;
 
 public class StatementObject
 {
     public List<ConditionObject> conditions = new List<ConditionObject>();
-    public List<EffectObject> effects;
+    public List<EffectObject> effects = new List<EffectObject>();
 
     public StatementObject(StatementSO statementSo)
     {
@@ -19,42 +20,54 @@ public class StatementObject
         }
     }
 
-    public void evaluate()
+    public bool evaluate(PlayerData playerData)
     {
         foreach (var condition in conditions)
         {
+            Debug.Log(condition.key);
+            var k = playerData.getKeyPropertyInfo(condition.key);
+            var keyValue = k.GetValue(playerData);
             switch (condition.op)
             {
                 //uses key value
-                case Operator.GreaterThan:
+                case ConditionOperator.GreaterThan:
+                    return parseToInt(keyValue) >= condition.value;
+
+                //uses key value
+                case ConditionOperator.LessThan:
+                    return parseToInt(keyValue) < condition.value;
                     break;
 
                 //uses key value
-                case Operator.LessThan:
-                    break;
-
-                //uses key value
-                case Operator.Equals:
+                case ConditionOperator.Equals:
+                    return parseToInt(keyValue) == condition.value;
                     break;
 
                 //uses key
-                case Operator.HasItem:
+                case ConditionOperator.HasItem:
                     break;
 
                 //uses key
-                case Operator.NotHasItem:
+                case ConditionOperator.NotHasItem:
                     break;
 
                 //uses key value
-                case Operator.RollsAbove:
+                case ConditionOperator.RollsAbove:
                     break;
 
                 //uses key value
-                case Operator.RollsBelow:
+                case ConditionOperator.RollsBelow:
                     break;
                 default:
                     throw new ArgumentOutOfRangeException();
             }
         }
+
+        return false;
+    }
+
+    private int parseToInt(object o)
+    {
+        return int.Parse(o.ToString());
     }
 }
