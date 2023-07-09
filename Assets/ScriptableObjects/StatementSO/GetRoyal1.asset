@@ -14,6 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   conditionSos: []
   conditionFailText: []
-  conditionSuccessText: []
+  conditionSuccessText:
+  - 
   effectSos:
   - {fileID: 11400000, guid: 05b94c98cc0d6204ea61419b962a023d, type: 2}

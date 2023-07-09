@@ -14,7 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   conditionSos: []
   conditionFailText: []
-  conditionSuccessText: []
+  conditionSuccessText:
+  - "You greedily fill your bag with golden treasures from the sacred altar. Yet,
+    an eerie exchange unfolds\u2014a spectral drain of energy from your body, a price
+    paid for indulging in the wealth of the divine.     "
   effectSos:
   - {fileID: 11400000, guid: a171d0118da00624883f4d5840da2fd1, type: 2}
   - {fileID: 11400000, guid: c03d74b4f7f912949bbba0ebf5edbeb4, type: 2}

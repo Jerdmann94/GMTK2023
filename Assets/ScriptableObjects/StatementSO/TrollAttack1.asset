@@ -14,7 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   conditionSos:
   - {fileID: 11400000, guid: 30a9b5e1c532e7d479c713cba5a3e25b, type: 2}
-  conditionFailText: []
-  conditionSuccessText: []
+  conditionFailText:
+  - 'As the trolls swing their savage clubs, you fend off their relentless onslaught
+    with skilled grace, deflecting their blows and swiftly dispatching them, leaving
+    the chamber resonating with the echoes of your victorious battle.     '
+  conditionSuccessText:
+  - 'Amidst a flurry of brutal blows, the trolls'' clubs rain upon you, inflicting
+    grievous wounds. Bloodied and battered, you valiantly endure, determined to overcome
+    their ferocity despite the pain that courses through your body.     '
   effectSos:
+  - {fileID: 11400000, guid: 352f7e5102cd9cd4eb46af5f7b7e163e, type: 2}
   - {fileID: 11400000, guid: a171d0118da00624883f4d5840da2fd1, type: 2}

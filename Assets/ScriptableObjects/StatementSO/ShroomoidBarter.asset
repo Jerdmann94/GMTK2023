@@ -14,7 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   conditionSos: []
   conditionFailText: []
-  conditionSuccessText: []
+  conditionSuccessText:
+  - 'You endure the choking fungal spores, haggling with the fungoid slavers. In
+    a rare gesture, they share hidden earth wisdom and offer a goblin slave as a
+    parting gift. Departing, you carry newfound knowledge and an unexpected companion.     '
   effectSos:
   - {fileID: 11400000, guid: efa85a418abd2fa42a5480df65d25536, type: 2}
   - {fileID: 11400000, guid: 16e270a967d2de249b79afcef9ac1f76, type: 2}

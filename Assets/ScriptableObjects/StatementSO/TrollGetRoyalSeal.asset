@@ -14,8 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   conditionSos:
   - {fileID: 11400000, guid: 97ce5841b18d5e84d86c7cd0fd8c7b28, type: 2}
-  conditionFailText: []
-  conditionSuccessText: []
+  conditionFailText:
+  - 'You strive to break the princess''s cage, but your strength falls short, leaving
+    you with a heavy heart. Overwhelmed by shame, you reluctantly depart, unable
+    to free her from captivity, haunted by the weight of your perceived inadequacy.     '
+  conditionSuccessText:
+  - 'Drawing upon your strength, you free the princess from her captive cage. Grateful
+    for her liberation, she bestows upon you her royal seal, a token of gratitude
+    for your heroic act.     '
   effectSos:
   - {fileID: 11400000, guid: 05b94c98cc0d6204ea61419b962a023d, type: 2}
   - {fileID: 11400000, guid: 6767e2ad362be4b4285b26e15e8de056, type: 2}

@@ -15,7 +15,10 @@ MonoBehaviour:
   conditionSos:
   - {fileID: 11400000, guid: 73200cc567ac7614d8b80f488055f504, type: 2}
   conditionFailText: []
-  conditionSuccessText: []
+  conditionSuccessText:
+  - 'With cunning words, you befriend the goblin farmers. Despite an awkward barter,
+    they offer their fungal bounty. The hearty fare nourishes you, granting newfound
+    strength, a testament to the resilience of peculiar alliances.     '
   effectSos:
   - {fileID: 11400000, guid: 7ef109de58a6e5046876f9b1604516fb, type: 2}
   - {fileID: 11400000, guid: 6f1578f49007e1d4ab3e38839c866307, type: 2}

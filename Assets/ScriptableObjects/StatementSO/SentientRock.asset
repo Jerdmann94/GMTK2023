@@ -14,7 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   conditionSos:
   - {fileID: 11400000, guid: 9f5ab0b131aeadb4090e2e13cefe3b27, type: 2}
-  conditionFailText: []
-  conditionSuccessText: []
+  conditionFailText:
+  - 'With tenacity, you lift the weighty boulder, straining against its mass. Despite
+    momentarily losing your grip, you manage to squeeze through just in time, escaping
+    unscathed as the boulder crashes to the ground.     '
+  conditionSuccessText:
+  - 'Exerting your strength, you lift the ponderous boulder and squeeze through.
+    However, it slips from your grasp, pinning your leg. With effort, you manage
+    to free yourself, but your limp will be a lingering reminder of the perilous
+    struggle.     '
   effectSos:
   - {fileID: 11400000, guid: a171d0118da00624883f4d5840da2fd1, type: 2}

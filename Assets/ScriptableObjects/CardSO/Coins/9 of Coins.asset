@@ -14,14 +14,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   statementSos:
   - {fileID: 11400000, guid: eb751132600d2ac4c9a6f04f4896e4e1, type: 2}
-  cardSelectText: 
-  cardHoverText: 
+  cardSelectText: "You enter the dungeon's chamber, witnessing a resplendent sight\u2014a
+    golden altar adorned with a myriad of glistening jewels, a testament to forgotten
+    opulence and the allure of untold riches.     "
+  cardHoverText: The room next door is eerily quiet...
   cardImage: {fileID: 21300000, guid: 710ade22b303fc547ab62132dfd1e13d, type: 3}
   invertedStatementSos:
   - {fileID: 11400000, guid: 5977b4a662f4a7e4d8e5dc20b13c7a43, type: 2}
   - {fileID: 11400000, guid: 5d57f7c292639ff45ac898124e184893, type: 2}
   - {fileID: 11400000, guid: 1018fe895ea1803418be618a815f1dd1, type: 2}
-  invertedCardSelectText: 
-  invertedCardHoverText: 
+  invertedCardSelectText: "You step into the dungeon's chamber, encountering a grim
+    tableau\u2014a sinister sacrificial altar, its surface tainted with the lingering
+    traces of blood, a chilling testament to unspeakable rites conducted in the shadows.     "
+  invertedCardHoverText: The room next door is eerily quiet...
   normalRoomSprite: {fileID: 21300000, guid: 189d1eb684f648442b909a59abd8a3f8, type: 3}
   inverseRoomSprite: {fileID: 0}

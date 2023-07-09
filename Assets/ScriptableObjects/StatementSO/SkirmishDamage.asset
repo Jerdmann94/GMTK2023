@@ -14,7 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   conditionSos:
   - {fileID: 11400000, guid: 30a9b5e1c532e7d479c713cba5a3e25b, type: 2}
-  conditionFailText: []
-  conditionSuccessText: []
+  conditionFailText:
+  - 'With unyielding determination, you forge through the tempestuous battle, deflecting
+    sword strikes and evading arrows, a master of agile maneuvers amid the chaos,
+    emerging unscathed through sheer resilience and quick reflexes.     '
+  conditionSuccessText:
+  - 'Undaunted by the tumultuous battle, you press onward, enduring wounds from stray
+    blows and arrows as you forge through. Bloodied yet resolute, you persist, a
+    testament to unwavering determination amidst the chaos.     '
   effectSos:
-  - {fileID: 11400000, guid: a171d0118da00624883f4d5840da2fd1, type: 2}
+  - {fileID: 11400000, guid: 352f7e5102cd9cd4eb46af5f7b7e163e, type: 2}

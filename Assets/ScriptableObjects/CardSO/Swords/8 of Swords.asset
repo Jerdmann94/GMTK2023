@@ -15,9 +15,7 @@ MonoBehaviour:
   statementSos:
   - {fileID: 11400000, guid: 17a10ac1c12ecb642a5cd0c4be620110, type: 2}
   - {fileID: 11400000, guid: b76f3471d145b1d47bd06dd92469f44e, type: 2}
-  - {fileID: 11400000, guid: 15008e6204b2d0a49b5846355520dbea, type: 2}
   - {fileID: 11400000, guid: 8b03206d91902a94aad5b2a8da24b867, type: 2}
-  - {fileID: 11400000, guid: d88554c330c9c2d46ba633262da37701, type: 2}
   cardSelectText: 'You enter the dungeon''s chamber, where three trolls gather around
     a flickering campfire. Behind them, caged in despair, a princess awaits her salvation,
     her eyes shining with fading hope.     '

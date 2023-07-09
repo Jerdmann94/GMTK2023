@@ -13,8 +13,13 @@ MonoBehaviour:
   m_Name: FightGoblinFarmer
   m_EditorClassIdentifier: 
   conditionSos:
-  - {fileID: 11400000, guid: a4256366f93e29f49bae518ddbe691d1, type: 2}
-  conditionFailText: []
-  conditionSuccessText: []
+  - {fileID: 11400000, guid: 30a9b5e1c532e7d479c713cba5a3e25b, type: 2}
+  conditionFailText:
+  - 'The suspicious goblins encircle you, testing your mettle. Brandishing your weapon,
+    you unleash a fearsome display, swiftly scattering the startled creatures.     '
+  conditionSuccessText:
+  - 'The suspicious goblins encircle you, testing your mettle. Brandishing your weapon,
+    you fend off their assault, enduring a few grazing blows. Undeterred, you unleash
+    a fearsome display, swiftly scattering the startled creatures.     '
   effectSos:
   - {fileID: 11400000, guid: a171d0118da00624883f4d5840da2fd1, type: 2}

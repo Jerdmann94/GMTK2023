@@ -15,7 +15,12 @@ MonoBehaviour:
   conditionSos:
   - {fileID: 11400000, guid: fc9868536b0c9cf4192c04784dd0a30b, type: 2}
   conditionFailText: []
-  conditionSuccessText: []
+  conditionSuccessText:
+  - 'With a heavy heart, you place the wounded man, shackled and weak, upon the accursed
+    altar. Vile tendrils ensnare him, his muted moans filling the air. You turn away
+    as his life dissipates. Returning your gaze, a silvered agate replaces him. Grasping
+    it, an uncanny swiftness surges through you, empowering your every movement with
+    an otherworldly grace.     '
   effectSos:
   - {fileID: 11400000, guid: afef64ce6ce5b724aa780accbf425846, type: 2}
   - {fileID: 11400000, guid: 1aba9c2cfd70527489d50908b380194e, type: 2}

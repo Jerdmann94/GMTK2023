@@ -14,6 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   conditionSos: []
   conditionFailText: []
-  conditionSuccessText: []
+  conditionSuccessText:
+  - Amidst the trampled mushroom farm of the goblins, you carefully salvage a handful
+    of gently bruised fungi.
   effectSos:
   - {fileID: 11400000, guid: dd68cb88a6522c5428ea5fd09d94d87b, type: 2}

@@ -16,7 +16,12 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 771ef92a7699c414894e0353d4c74b6b, type: 2}
   - {fileID: 11400000, guid: 8824d63760224f94ba06b0763e211678, type: 2}
   conditionFailText: []
-  conditionSuccessText: []
+  conditionSuccessText:
+  - 'Harnessing your knowledge of trolls'' vulnerability, you retrieve the wand of
+    light from your pouch. Bathing the chamber in radiant daylight, the trolls petrify
+    instantly. With the princess freed, she gifts you her royal seal, gratitude gleaming
+    in her eyes.     '
   effectSos:
   - {fileID: 11400000, guid: 04ca17c833da4fe47985db6dba844831, type: 2}
+  - {fileID: 11400000, guid: 05b94c98cc0d6204ea61419b962a023d, type: 2}
   - {fileID: 11400000, guid: 6767e2ad362be4b4285b26e15e8de056, type: 2}
