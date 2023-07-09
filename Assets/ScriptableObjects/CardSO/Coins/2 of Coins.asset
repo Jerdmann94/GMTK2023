@@ -22,16 +22,10 @@ MonoBehaviour:
   cardImage: {fileID: 21300000, guid: a1ca5fdc810089047a6cc1bdb26db58b, type: 3}
   invertedStatementSos:
   - {fileID: 11400000, guid: b4c2165b122fc814b8d07cecca90032f, type: 2}
-<<<<<<< HEAD
   invertedCardSelectText: 'Upon entering the dungeon room, your attention is drawn
     to a severed hand resting on the ground. Startled, it unexpectedly springs to
     life, snatching a handful of gold from your purse before scurrying away with
     an eerie agility.     '
   invertedCardHoverText: The room next door is eerily quiet...
-  normalRoomSprite: {fileID: 0}
-=======
-  invertedCardSelectText: 
-  invertedCardHoverText: 
   normalRoomSprite: {fileID: 21300000, guid: a65228e59d34253438ce495d7fdc78e2, type: 3}
->>>>>>> 37842b2b5adea99d7a74e48ae39b95fe85cc2123
   inverseRoomSprite: {fileID: 0}

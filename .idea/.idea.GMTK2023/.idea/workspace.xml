@@ -5,163 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e5cadc4-2305-4b0b-85d2-24c4c74e251e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/PressStart2P-Regular SDF.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/PressStart2P-Regular SDF.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/PressStart2P-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/PressStart2P-Regular.ttf.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Relic.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Relic.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/CoinSprites.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/CoinSprites/Coins_Ace.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/CoinSprites/Coins_Ace.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/CoinSprites/Coins_Eight.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/CoinSprites/Coins_Eight.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/CoinSprites/Coins_Five.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/CoinSprites/Coins_Five.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/CoinSprites/Coins_Four.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/CoinSprites/Coins_Four.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/CoinSprites/Coins_Nine.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/CoinSprites/Coins_Nine.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/CoinSprites/Coins_Seven.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/CoinSprites/Coins_Seven.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/CoinSprites/Coins_Six.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/CoinSprites/Coins_Six.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/CoinSprites/Coins_Ten.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/CoinSprites/Coins_Ten.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/CoinSprites/Coins_Three.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/CoinSprites/Coins_Three.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/CoinSprites/Coins_Two.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/CoinSprites/Coins_Two.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/CupSprites.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/CupSprites/Cups_Ten.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/CupSprites/Cups_Ten.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Main_Chara_brawler.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Main_Chara_brawler.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Main_Chara_swordsman.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Main_Chara_swordsman.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Main_Chara_wizard.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Main_Chara_wizard.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Splash-super_cool.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Splash-super_cool.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/SwordSprites.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/SwordSprites/Swords_Ace1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/SwordSprites/Swords_Ace1.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/SwordSprites/Swords_Ace2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/SwordSprites/Swords_Ace2.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/SwordSprites/Swords_Eight.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/SwordSprites/Swords_Eight.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/SwordSprites/Swords_Five.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/SwordSprites/Swords_Five.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/SwordSprites/Swords_Four.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/SwordSprites/Swords_Four.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/SwordSprites/Swords_Nine.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/SwordSprites/Swords_Nine.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/SwordSprites/Swords_Seven.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/SwordSprites/Swords_Seven.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/SwordSprites/Swords_Six.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/SwordSprites/Swords_Six.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/SwordSprites/Swords_Ten.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/SwordSprites/Swords_Ten.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/SwordSprites/Swords_Three.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/SwordSprites/Swords_Three.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/SwordSprites/Swords_Two.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/SwordSprites/Swords_Two.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/WandSprites.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/WandSprites/Wands_Ace.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/WandSprites/Wands_Ace.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/WandSprites/Wands_Eight.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/WandSprites/Wands_Eight.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/WandSprites/Wands_Five.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/WandSprites/Wands_Five.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/WandSprites/Wands_Four.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/WandSprites/Wands_Four.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/WandSprites/Wands_Nine.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/WandSprites/Wands_Nine.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/WandSprites/Wands_Seven.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/WandSprites/Wands_Seven.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/WandSprites/Wands_Six.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/WandSprites/Wands_Six.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/WandSprites/Wands_Ten.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/WandSprites/Wands_Ten.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/WandSprites/Wands_Three.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/WandSprites/Wands_Three.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/WandSprites/Wands_Two.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/WandSprites/Wands_Two.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TarrowImage/RWS_Tarot_10_Wheel_of_Fortune.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TarrowImage/RWS_Tarot_10_Wheel_of_Fortune.jpg.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.GMTK 2023/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GMTK 2023/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/ChatPrefab.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/ChatPrefab.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Scene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Coins/1 of Coins.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Coins/1 of Coins.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Coins/10 of Coins.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Coins/10 of Coins.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.GMTK2023/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GMTK2023/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Coins/2 of Coins.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Coins/2 of Coins.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Coins/3 of Coins.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Coins/3 of Coins.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Coins/4 of Coins.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Coins/4 of Coins.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Coins/5 of Coins.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Coins/5 of Coins.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Coins/6 of Coins.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Coins/6 of Coins.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Coins/7 of Coins.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Coins/7 of Coins.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Coins/8 of Coins.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Coins/8 of Coins.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Coins/9 of Coins.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Coins/9 of Coins.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Cups/10 of cups.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Cups/10 of cups.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Swords/1 of Swords.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Swords/1 of Swords.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Swords/10 of Swords.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Swords/10 of Swords.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Swords/2 of Swords.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Swords/2 of Swords.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Swords/3 of Swords.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Swords/3 of Swords.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Swords/4 of Swords.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Swords/4 of Swords.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Swords/5 of Swords.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Swords/5 of Swords.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Swords/6 of Swords.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Swords/6 of Swords.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Swords/7 of Swords.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Swords/7 of Swords.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Swords/8 of Swords.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Swords/8 of Swords.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Swords/9 of Swords.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Swords/9 of Swords.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Wands/1 of Wands.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Wands/1 of Wands.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Wands/10 of Wands.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Wands/10 of Wands.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Wands/2 of Wands.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Wands/2 of Wands.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Wands/3 of Wands.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Wands/3 of Wands.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Wands/4 of Wands.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Wands/4 of Wands.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Wands/5 of Wands.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Wands/5 of Wands.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Wands/6 of Wands.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Wands/6 of Wands.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Wands/7 of Wands.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Wands/7 of Wands.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Wands/8 of Wands.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Wands/8 of Wands.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Wands/9 of Wands.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Wands/9 of Wands.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/ConditionSO/RollOverDex12.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/ConditionSO/RollOverDex12.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/EffectSO/Gain1Mana.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/EffectSO/Gain1Mana.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/EffectSO/Gain3Life.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/EffectSO/Gain3Life.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/EffectSO/Lose1Mana.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/EffectSO/Lose1Mana.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/Dragon10.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/Dragon10.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/Dragon12.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/Dragon12.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/DragonFinal.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/DragonFinal.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/DragonStr.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/DragonStr.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/MosStr18.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/MosStr18.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CardManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CardManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ChatManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ChatManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ConditionObject.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ConditionObject.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerData.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/RoomObjectManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/RoomObjectManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/StatementObject.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/StatementObject.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ToolTipManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ToolTipManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Cups_Eight.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/CupSprites/Cups_Eight.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Cups_Eight.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/CupSprites/Cups_Eight.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Cups_Five.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/CupSprites/Cups_Five.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Cups_Five.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/CupSprites/Cups_Five.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Cups_Four.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/CupSprites/Cups_Four.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Cups_Four.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/CupSprites/Cups_Four.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Cups_Nine.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/CupSprites/Cups_Nine.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Cups_Nine.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/CupSprites/Cups_Nine.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Cups_Seven.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/CupSprites/Cups_Seven.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Cups_Seven.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/CupSprites/Cups_Seven.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Cups_Six.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/CupSprites/Cups_Six.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Cups_Six.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/CupSprites/Cups_Six.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Cups_Three.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/CupSprites/Cups_Three.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Cups_Three.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/CupSprites/Cups_Three.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Fountain-Dry (1).png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/CupSprites/Fountain-Dry (1).png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Fountain-Dry (1).png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/CupSprites/Fountain-Dry (1).png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Fountain-Moist (1).png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/CupSprites/Fountain-Moist (1).png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Fountain-Moist (1).png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/CupSprites/Fountain-Moist (1).png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Potion_Seller_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/CupSprites/Potion_Seller_1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Potion_Seller_1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/CupSprites/Potion_Seller_1.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Potion_Seller_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/CupSprites/Potion_Seller_2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Potion_Seller_2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/CupSprites/Potion_Seller_2.png.meta" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -286,7 +132,7 @@
       <workItem from="1688778495366" duration="155000" />
       <workItem from="1688778692349" duration="663000" />
       <workItem from="1688779378190" duration="5023000" />
-      <workItem from="1688823908010" duration="4696000" />
+      <workItem from="1688823908010" duration="4815000" />
     </task>
     <servers />
   </component>

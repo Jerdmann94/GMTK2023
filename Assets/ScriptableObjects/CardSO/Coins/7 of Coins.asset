@@ -22,15 +22,9 @@ MonoBehaviour:
   cardImage: {fileID: 21300000, guid: c65edd082a8a1d945b1d61f62a5f9efe, type: 3}
   invertedStatementSos:
   - {fileID: 11400000, guid: 0dca8462a17bef84a9061ee3005fcb23, type: 2}
-<<<<<<< HEAD
   invertedCardSelectText: "As you step into the dungeon room's gloom, a sight catches
     your eye\u2014a spinning wheel, its spool bearing a glistening thread of gold,
     twirling with enchantment, weaving secrets of forgotten realms.     "
   invertedCardHoverText: The thrum and clatter of a spinning wheel...
-  normalRoomSprite: {fileID: 0}
-=======
-  invertedCardSelectText: 
-  invertedCardHoverText: 
   normalRoomSprite: {fileID: 21300000, guid: 84d89a7a9f1e9a846a9c99c1e67b3d5f, type: 3}
->>>>>>> 37842b2b5adea99d7a74e48ae39b95fe85cc2123
   inverseRoomSprite: {fileID: 0}
