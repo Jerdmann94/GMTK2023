@@ -10,6 +10,7 @@ public class ConditionObject
 
     public ConditionObject(ConditionSO conditionSo)
     {
+        //Debug.Log(conditionSo.name);
         this.key = conditionSo.key;
         this.value = conditionSo.value;
         this.op = conditionSo.op;

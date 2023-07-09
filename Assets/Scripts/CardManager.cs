@@ -1,6 +1,8 @@
 using System.Collections.Generic;
 using System.Linq;
+using System.Threading.Tasks;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class CardManager : MonoBehaviour
 {
@@ -12,6 +14,10 @@ public class CardManager : MonoBehaviour
 
     // CARD DATA
     public List<CardSO> cardSos;
+    public CardSO relicSo;
+    private int _playedCounter;
+    private bool _returnTrip;
+    private int _relicReturnCounter;
     private Queue<CardObject> _deck = new Queue<CardObject>();
     private List<CardObject> _hand = new List<CardObject>();
     private List<CardObject> _chosenCards = new List<CardObject>();
@@ -28,7 +34,7 @@ public class CardManager : MonoBehaviour
     public void displayHand(CardObject cardObject, int i)
     {
         var ttt = handUi[i].GetComponent<ToolTipTrigger>();
-        ttt.header = cardObject.name;
+        ttt.header = cardObject.name + " Inverted: " + cardObject.isInverted;
         ttt.text = cardObject.hoverText;
         handUi[i].setUIImage(cardObject.sprite, cardObject.isInverted);
     }
@@ -44,10 +50,26 @@ public class CardManager : MonoBehaviour
 
 
     //DATA METHODS
-    public void chooseCard(int i)
+
+
+    public async void chooseCard(int i)
     {
-        Debug.Log("is inverted" + _hand[i].isInverted);
-        Debug.Log(_hand[i].sprite.name);
+        _playedCounter++;
+        Debug.Log(_playedCounter);
+        ToolTipManager.Hide();
+        foreach (var handScript in handUi)
+        {
+            handScript.GetComponent<Button>().interactable = false;
+        }
+
+        if (_hand[i].name == "Relic")
+        {
+            doRelicStuff();
+
+            return;
+        }
+
+        Debug.Log(i + "  " + _hand[i].name + " is inverted " + _hand[i].isInverted);
 
         if (_hand[i].isInverted)
         {
@@ -65,10 +87,12 @@ public class CardManager : MonoBehaviour
             }
 
             chatManager.makeChatMessage(_hand[i].invertedChosenText);
-
+            await Task.Delay(2000);
+            Debug.Log("Did delay 1");
             foreach (var statementObject in _hand[i].invertedStatementObjects)
             {
-                if (!statementObject.doStatement(playerData))
+                var result = await statementObject.doStatement(playerData, chatManager);
+                if (!result)
                 {
                     break;
                 }
@@ -80,7 +104,9 @@ public class CardManager : MonoBehaviour
             chatManager.makeChatMessage(_hand[i].chosenText);
             foreach (var statementObject in _hand[i].statementObjects)
             {
-                if (!statementObject.doStatement(playerData))
+                var result = await statementObject.doStatement(playerData, chatManager);
+
+                if (!result)
                 {
                     break;
                 }
@@ -97,10 +123,48 @@ public class CardManager : MonoBehaviour
         _hand.Clear();
         playerData.clearTempStats();
         drawHand();
+        foreach (var handScript in handUi)
+        {
+            handScript.GetComponent<Button>().interactable = true;
+        }
+    }
+
+    private void doRelicStuff()
+    {
+        Debug.Log("DoingRelic");
+        _returnTrip = true;
+        _previewCards.Clear();
+        _deck.Clear();
+        _hand.Clear();
+        playerData.clearTempStats();
+        var shuffledList = _chosenCards.OrderBy(x => Random.value).ToList();
+        foreach (var card in shuffledList)
+        {
+            card.isInverted = !card.isInverted;
+        }
+
+        foreach (var card in shuffledList)
+        {
+            _deck.Enqueue(card);
+        }
+
+        var card1 = _deck.Dequeue();
+        var card2 = _deck.Dequeue();
+        var card3 = _deck.Dequeue();
+        _previewCards.Add(card1);
+        _previewCards.Add(card2);
+        _previewCards.Add(card3);
+        drawHand();
+        foreach (var handScript in handUi)
+        {
+            handScript.GetComponent<Button>().interactable = false;
+        }
     }
 
     public void initDeck()
     {
+        _playedCounter = 0;
+        _returnTrip = false;
         _deck = new Queue<CardObject>();
         _deck.Clear();
         _previewCards.Clear();
@@ -114,9 +178,14 @@ public class CardManager : MonoBehaviour
         }
 
         _previewCards.Clear();
-        _previewCards.Add(_deck.Dequeue());
-        _previewCards.Add(_deck.Dequeue());
-        _previewCards.Add(_deck.Dequeue());
+        var card1 = _deck.Dequeue();
+        var card2 = _deck.Dequeue();
+        var card3 = _deck.Dequeue();
+
+        Debug.Log("Cards in preview " + card1.name + " " + card2.name + " " + card3.name + " ");
+        _previewCards.Add(card1);
+        _previewCards.Add(card2);
+        _previewCards.Add(card3);
         drawHand();
     }
 
@@ -141,9 +210,31 @@ public class CardManager : MonoBehaviour
         }
 
         _previewCards.Clear();
-        _previewCards.Add(_deck.Dequeue());
-        _previewCards.Add(_deck.Dequeue());
-        _previewCards.Add(_deck.Dequeue());
+        var card1 = _deck.Dequeue();
+        var card2 = _deck.Dequeue();
+        var card3 = new CardObject(relicSo);
+        if (_playedCounter > 7)
+        {
+            if (_relicReturnCounter <= 0)
+            {
+                card3 = new CardObject(relicSo);
+                _relicReturnCounter = 3;
+            }
+            else
+            {
+                _relicReturnCounter--;
+                card3 = _deck.Dequeue();
+            }
+        }
+        else
+        {
+            card3 = _deck.Dequeue();
+        }
+
+        Debug.Log("Cards in preview " + card1.name + " " + card2.name + " " + card3.name + " ");
+        _previewCards.Add(card1);
+        _previewCards.Add(card2);
+        _previewCards.Add(card3);
         displayPreview();
     }
 }

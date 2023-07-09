@@ -13,7 +13,7 @@ public class ToolTipManager : MonoBehaviour
 
     public static void Show(string header, string content)
     {
-        Debug.Log("Show tooltip");
+//        Debug.Log("Show tooltip");
         instance.toolTip.setText(header, content);
         instance.toolTip.gameObject.SetActive(true);
     }

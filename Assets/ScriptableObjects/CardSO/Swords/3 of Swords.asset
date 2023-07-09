@@ -21,5 +21,5 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 6f4b19e3599a0fe449ecdec9b2f525bc, type: 2}
   invertedCardSelectText: 
   invertedCardHoverText: 
-  normalRoomSprite: {fileID: 0}
+  normalRoomSprite: {fileID: 21300000, guid: 8e52502cb1b67a449be93c87a2c94259, type: 3}
   inverseRoomSprite: {fileID: 0}

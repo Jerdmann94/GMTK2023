@@ -1,3 +1,4 @@
+using System;
 using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
@@ -10,6 +11,11 @@ public class ChatManager : MonoBehaviour
 
     public void makeChatMessage(string t)
     {
+        if (String.IsNullOrEmpty(t))
+        {
+            return;
+        }
+
         Message newMessage = new Message();
         newMessage.text = t;
         messages.Add(newMessage);

@@ -30,5 +30,5 @@ MonoBehaviour:
     a chaos of toppled goblets and spilled wine, his slurred shouts filling the air
     with drunken ire as you cautiously intrude upon his melancholic revelry.     '
   invertedCardHoverText: Grumbling murmurs and howls...
-  normalRoomSprite: {fileID: 0}
+  normalRoomSprite: {fileID: 21300000, guid: 81d755a51ffbee24f91e9439719fe971, type: 3}
   inverseRoomSprite: {fileID: 0}

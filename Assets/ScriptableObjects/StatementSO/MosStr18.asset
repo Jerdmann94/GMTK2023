@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: MosStr18
   m_EditorClassIdentifier: 
   conditionSos:
-  - {fileID: 0}
+  - {fileID: 11400000, guid: 5bf4e216dea111549a0e3b633456ddcf, type: 2}
   conditionFailText: []
   conditionSuccessText: []
   effectSos:

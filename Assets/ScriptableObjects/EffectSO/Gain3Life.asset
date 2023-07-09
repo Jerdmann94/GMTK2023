@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: Gain3Life
   m_EditorClassIdentifier: 
   op: 0
-  key: 
-  value: 0
+  key: Life
+  value: 3

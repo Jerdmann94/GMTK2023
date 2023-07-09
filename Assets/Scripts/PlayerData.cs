@@ -18,14 +18,12 @@ public class PlayerData : MonoBehaviour
     //temp stats
     private int tempStrength;
     private int tempIntelligence;
-
     private int tempDexterity;
 
     //RESOURCES
     [SerializeField] private int mana;
     [SerializeField] private int life;
     [SerializeField] private int gold;
-
     [SerializeField] private int food;
 
     //ITEMS / CONSUMABLES
@@ -62,6 +60,7 @@ public class PlayerData : MonoBehaviour
         set
         {
             intelligence = value;
+            Debug.Log("Intelligence " + Intelligence);
             playerStatUIManager.SetStats();
         }
     }
@@ -72,6 +71,7 @@ public class PlayerData : MonoBehaviour
         set
         {
             dexterity = value;
+            Debug.Log("Dexterity " + Dexterity);
             playerStatUIManager.SetStats();
         }
     }
@@ -82,6 +82,7 @@ public class PlayerData : MonoBehaviour
         set
         {
             strength = value;
+            Debug.Log("Strength " + Strength);
             playerStatUIManager.SetStats();
         }
     }
@@ -193,7 +194,7 @@ public class PlayerData : MonoBehaviour
 
     public PropertyInfo getKeyPropertyInfo(string key)
     {
-//        Debug.Log(key);
+        Debug.Log(key);
         var t = this.GetType();
         var props = t.GetProperties().ToList();
         var k = props.Find(p => p.Name == key);
@@ -208,5 +209,57 @@ public class PlayerData : MonoBehaviour
         {
             gameManager.gameLost();
         }
+    }
+
+    public void initStats()
+    {
+        doRandomStats();
+        clearTempStats();
+        mana = 0;
+        life = 6;
+        gold = 0;
+        food = 4;
+        royalSeal1 = false;
+        royalSeal2 = false;
+        royalSeal3 = false;
+        mindlessBody = false;
+        ironKey = false;
+        prometheus = false;
+        goblin = false;
+        playerStatUIManager.SetStats();
+    }
+
+    private void doRandomStats()
+    {
+        Strength = 0;
+        Intelligence = 0;
+        Dexterity = 0;
+        Debug.Log(" dex " + Dexterity + " str " +
+                  Strength + " int " + Intelligence);
+        //strength int dex
+        //fighter rogue wizard
+        var stats = new[,]
+        {
+            {
+                3, 2, 1
+            },
+            {
+                2, 1, 3
+            },
+            {
+                1, 3, 2
+            }
+        };
+        var s = Random.Range(0, 3);
+
+        Strength = stats[s, 0];
+        Intelligence = stats[s, 1];
+        Dexterity = stats[s, 2];
+        Debug.Log(" s0 " + stats[s, 0] + " s1 " +
+                  stats[s, 1] + " s2 " + stats[s, 2]);
+        Debug.Log("s " + s + " dex " + Dexterity + " str " +
+                  Strength + " int " + Intelligence);
+        Debug.Log("s " + s + " tdex " + tempDexterity + " tstr " +
+                  tempStrength + " tint " + tempIntelligence);
     }
 }

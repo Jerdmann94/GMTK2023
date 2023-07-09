@@ -10,6 +10,8 @@ public class GameManager : MonoBehaviour
 
     public GameObject startScreenObj;
 
+    public PlayerData playerData;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -28,6 +30,7 @@ public class GameManager : MonoBehaviour
 
     public void startGame()
     {
+        playerData.initStats();
         cardManager.initDeck();
         startScreenObj.SetActive(false);
         gameWinObj.SetActive(false);
