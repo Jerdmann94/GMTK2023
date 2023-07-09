@@ -14,14 +14,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   statementSos:
   - {fileID: 11400000, guid: 437ff871f0f1c6441b1c3c68c4af07d0, type: 2}
-  cardSelectText: 
-  cardHoverText: 
+  cardSelectText: 'As you enter the dungeon''s chamber, a colossal boulder obstructs
+    your path. Assessing its size, you believe you could maneuver past it with a
+    careful shift, inching forward in hopes of breaching the barrier.     '
+  cardHoverText: The room next door is eerily quiet...
   cardImage: {fileID: 21300000, guid: ae8b3cd6b50479549b92ed2a4203d245, type: 3}
   invertedStatementSos:
   - {fileID: 11400000, guid: a2bd6b36e5a5a5646a9be4babefacc98, type: 2}
   - {fileID: 11400000, guid: a227a3f74651a9c408bb8f5c4c6475ea, type: 2}
   - {fileID: 11400000, guid: fbe6f773a10b72a4fb4b46c097292304, type: 2}
-  invertedCardSelectText: 
-  invertedCardHoverText: 
+  invertedCardSelectText: 'As you enter the dungeon''s chamber, a colossal boulder
+    obstructs your path. Assessing its size, you believe you could maneuver past
+    it with a careful shift, inching forward in hopes of breaching the barrier.     '
+  invertedCardHoverText: The room next door is eerily quiet...
   normalRoomSprite: {fileID: 21300000, guid: fe90f42810d91c748ab2b3140002a716, type: 3}
   inverseRoomSprite: {fileID: 0}

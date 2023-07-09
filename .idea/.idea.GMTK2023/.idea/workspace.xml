@@ -6,8 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="6e5cadc4-2305-4b0b-85d2-24c4c74e251e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.GMTK2023/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GMTK2023/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Coins/2 of Coins.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Coins/2 of Coins.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Coins/7 of Coins.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Coins/7 of Coins.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Swords/10 of Swords.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Swords/10 of Swords.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Swords/4 of Swords.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Swords/4 of Swords.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Swords/6 of Swords.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Swords/6 of Swords.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Swords/7 of Swords.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Swords/7 of Swords.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Swords/8 of Swords.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Swords/8 of Swords.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Swords/9 of Swords.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Swords/9 of Swords.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +27,8 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="mock://C:/Users/Zach/GMTK2023/Assets/ScriptableObjects/CardSO/Coins/1 of Coins.asset" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/Zach/GMTK2023/Assets/ScriptableObjects/CardSO/Coins/1 of Coins.asset" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/Zach/GMTK2023/Assets/ScriptableObjects/CardSO/Coins/10 of Coins.asset" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/Zach/GMTK2023/Assets/ScriptableObjects/CardSO/Coins/10 of Coins.asset" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/Zach/GMTK2023/Assets/ScriptableObjects/CardSO/Coins/2 of Coins.asset" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/Zach/GMTK2023/Assets/ScriptableObjects/CardSO/Coins/3 of Coins.asset" root0="SKIP_HIGHLIGHTING" />
@@ -132,7 +138,7 @@
       <workItem from="1688778495366" duration="155000" />
       <workItem from="1688778692349" duration="663000" />
       <workItem from="1688779378190" duration="5023000" />
-      <workItem from="1688823908010" duration="4815000" />
+      <workItem from="1688823908010" duration="5563000" />
     </task>
     <servers />
   </component>
