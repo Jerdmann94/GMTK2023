@@ -33,6 +33,8 @@ public class PlayerData : MonoBehaviour
     [SerializeField] private bool royalSeal2;
     [SerializeField] private bool royalSeal3;
     [SerializeField] private bool mindlessBody;
+    [SerializeField] private bool ironKey;
+    [SerializeField] private bool prometheus;
 
 
     public void clearTempStats()
@@ -167,6 +169,18 @@ public class PlayerData : MonoBehaviour
     {
         get => royalSeal3;
         set => royalSeal3 = value;
+    }
+
+    public bool IronKey
+    {
+        get => ironKey;
+        set => ironKey = value;
+    }
+
+    public bool Prometheus
+    {
+        get => prometheus;
+        set => prometheus = value;
     }
 
 
