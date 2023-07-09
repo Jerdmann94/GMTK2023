@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: JumpOverHell
   m_EditorClassIdentifier: 
   conditionSos:
-  - {fileID: 11400000, guid: 493c6dd289a75d8448a91e1b92e88e61, type: 2}
+  - {fileID: 11400000, guid: 30a9b5e1c532e7d479c713cba5a3e25b, type: 2}
   conditionFailText: []
   conditionSuccessText: []
   effectSos:

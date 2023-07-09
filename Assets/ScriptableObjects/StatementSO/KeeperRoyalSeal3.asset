@@ -10,13 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: b81fc53a76d160c4daabb53da5c2eed0, type: 3}
-  m_Name: KeeperBreakBread
+  m_Name: KeeperRoyalSeal3
   m_EditorClassIdentifier: 
   conditionSos:
-  - {fileID: 11400000, guid: d18c7563321ca334db3c3588f69f6917, type: 2}
+  - {fileID: 11400000, guid: 894a7544cff38d74a897a6685c32104e, type: 2}
   conditionFailText: []
   conditionSuccessText: []
   effectSos:
-  - {fileID: 11400000, guid: ac94e952591fbb64cae1f2c5d77d0171, type: 2}
-  - {fileID: 11400000, guid: 6f1578f49007e1d4ab3e38839c866307, type: 2}
   - {fileID: 11400000, guid: cba37215dcdc4d844a8d939aef4b510a, type: 2}
+  - {fileID: 11400000, guid: c03d74b4f7f912949bbba0ebf5edbeb4, type: 2}
