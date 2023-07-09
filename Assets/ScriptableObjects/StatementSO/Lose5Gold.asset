@@ -14,6 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   conditionSos: []
   conditionFailText: []
-  conditionSuccessText: []
+  conditionSuccessText:
+  - 'The priest, with avarice in his eyes, claims his tithe, granting passage through
+    the ossuary. He steps aside, allowing you to proceed with reverence, venturing
+    deeper into the dungeon''s enigmatic depths.     '
   effectSos:
   - {fileID: 11400000, guid: 6d5a0154e33902a40a9a8d6f99fe3827, type: 2}

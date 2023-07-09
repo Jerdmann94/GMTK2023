@@ -16,13 +16,17 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 4f5537be63426db4aa7e01c577b52337, type: 2}
   - {fileID: 11400000, guid: f564a90f24d97e14c820cb91998316bd, type: 2}
   - {fileID: 11400000, guid: a17935033b3a0094ba62b2fee310213d, type: 2}
-  cardSelectText: 
-  cardHoverText: 
+  cardSelectText: 'You enter the room, twin bearded guards flanking separate doors.
+    In silent bickering, their eyes meet yours. Finally, somberly, they declare,
+    "Will you challenge our riddle?" A test of wit awaits.     '
+  cardHoverText: Grumble. Squabble. Disgruntled retort...
   cardImage: {fileID: 21300000, guid: b2008225419a2344c9bba060edf0f3bd, type: 3}
   invertedStatementSos:
   - {fileID: 11400000, guid: af6040f7c93a6d24c8ab08fcdc293e99, type: 2}
   - {fileID: 11400000, guid: 5eeec79d9983cd345bfee296cb931b06, type: 2}
-  invertedCardSelectText: 
-  invertedCardHoverText: 
-  normalRoomSprite: {fileID: 21300000, guid: 7d19760593da6dd4b9dd31820470572f, type: 3}
+  invertedCardSelectText: "Entering the dungeon room, you confront a formidable sight\u2014a
+    massive door, bolted, chained, and padlocked, certainly guarding secrets within.
+    The weight of anticipation hangs heavy in the air.     "
+  invertedCardHoverText: The room next door is eerily quiet...
+  normalRoomSprite: {fileID: 0}
   inverseRoomSprite: {fileID: 0}

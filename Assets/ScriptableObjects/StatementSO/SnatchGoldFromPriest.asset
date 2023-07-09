@@ -14,7 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   conditionSos:
   - {fileID: 11400000, guid: 6a0a8b27aedbc6e4cbadc252bc55cbdd, type: 2}
-  conditionFailText: []
-  conditionSuccessText: []
+  conditionFailText:
+  - 'As you reach for the cup of coins, skeletal arms wrench you away, their grip
+    unrelenting. Jostled forcefully, they propel you toward the ossuary''s exit,
+    denying your grasp on the coveted prize.     '
+  conditionSuccessText:
+  - 'As you pass by, reaching for the cup of coins, your nimble fingers secure the
+    prize amidst the meddling skeletal arms. Counting your spoils, you''re pushed
+    out of the ossuary, victoriously clutching your hard-earned treasure.     '
   effectSos:
   - {fileID: 11400000, guid: cba37215dcdc4d844a8d939aef4b510a, type: 2}

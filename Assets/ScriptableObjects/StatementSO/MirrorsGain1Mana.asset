@@ -14,6 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   conditionSos: []
   conditionFailText: []
-  conditionSuccessText: []
+  conditionSuccessText:
+  - 'Harnessing your clarity of intellect, you navigate the mirrored maze, disregarding
+    the distorted reflections that seek to mislead. Focused and resolute, you rise
+    above the deceptive illusions, forging a path guided by your unwavering mind.     '
   effectSos:
   - {fileID: 11400000, guid: 5326acb153d0cae4ba8ccf7d11adf906, type: 2}

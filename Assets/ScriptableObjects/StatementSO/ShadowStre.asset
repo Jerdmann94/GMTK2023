@@ -16,7 +16,11 @@ MonoBehaviour:
   - {fileID: 11400000, guid: a4256366f93e29f49bae518ddbe691d1, type: 2}
   - {fileID: 11400000, guid: 6a0a8b27aedbc6e4cbadc252bc55cbdd, type: 2}
   conditionFailText: []
-  conditionSuccessText: []
+  conditionSuccessText:
+  - "Locked in a fierce battle with your shadowy counterpart, it mirrors your brawny
+    blows with uncanny precision. Strength alone fails to overpower it. A revelation
+    sparks within\u2014your agility prevails as you deftly circle, striking swiftly
+    from behind, dispelling the dark reflection.     "
   effectSos:
   - {fileID: 11400000, guid: 5326acb153d0cae4ba8ccf7d11adf906, type: 2}
   - {fileID: 11400000, guid: 679838f517d76a9479e583266fcfd36d, type: 2}

@@ -16,14 +16,18 @@ MonoBehaviour:
   - {fileID: 11400000, guid: ea7b7c129184eb6499c7d4abdadde188, type: 2}
   - {fileID: 11400000, guid: c56b957f9c397004092e3247ab1fb48d, type: 2}
   - {fileID: 11400000, guid: 9a05dd18f6ff7584fabb8bbd50d9d403, type: 2}
-  cardSelectText: 1 wands
-  cardHoverText: 1 wands
+  cardSelectText: "The chamber, a m\xE9lange of shadows and dust, revealed a solitary
+    artifact: a gnarled staff, its ancient wood whispering secrets, beckoning the
+    daring soul towards untold power or perilous demise.     "
+  cardHoverText: The room next door is eerily quiet...
   cardImage: {fileID: 21300000, guid: 591736bbc76087243a183833164f4310, type: 3}
   invertedStatementSos:
   - {fileID: 11400000, guid: b4223591e1e3e834d99521c68f555d5d, type: 2}
   - {fileID: 11400000, guid: 318c8801f309cc44a8119f9861c3f526, type: 2}
   - {fileID: 11400000, guid: 8e5c91efd68cb2e4ebcb23bbfc886e73, type: 2}
-  invertedCardSelectText: '1 '
-  invertedCardHoverText: 1
-  normalRoomSprite: {fileID: 21300000, guid: ce99aaa0d6bde8e44826aca31094691d, type: 3}
+  invertedCardSelectText: 'Within the subterranean sanctum, dimly lit by flickering
+    torchlight, a formidable wooden cudgel lay discarded, its gnarled surface hinting
+    at countless tales of conquest and retribution.     '
+  invertedCardHoverText: The room next door is eerily quiet...
+  normalRoomSprite: {fileID: 0}
   inverseRoomSprite: {fileID: 0}

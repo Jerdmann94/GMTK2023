@@ -13,9 +13,15 @@ MonoBehaviour:
   m_Name: OozeMancerAttack
   m_EditorClassIdentifier: 
   conditionSos:
-  - {fileID: 11400000, guid: 9f5ab0b131aeadb4090e2e13cefe3b27, type: 2}
-  conditionFailText: []
-  conditionSuccessText: []
+  - {fileID: 11400000, guid: 6a0a8b27aedbc6e4cbadc252bc55cbdd, type: 2}
+  conditionFailText:
+  - "Temptation beckons, compelling you to plunge your hand into the acidic ooze,
+    seize the sparkling prize. Yet wisdom prevails\u2014an instinctive withdrawal,
+    averting a costly misstep, and preserving your hand, if not your curiosity.     "
+  conditionSuccessText:
+  - 'Impulse overtakes reason. Your hand dives into the corrosive ooze, snatching
+    the amulet from the skeleton''s neck. Acid gnaws at your flesh, searing agony
+    battles triumph for possession. Sacrifices made in pursuit of power.     '
   effectSos:
   - {fileID: 11400000, guid: a171d0118da00624883f4d5840da2fd1, type: 2}
-  - {fileID: 11400000, guid: befa6df32de6ed54c8a8be0501297d5d, type: 2}
+  - {fileID: 11400000, guid: c03d74b4f7f912949bbba0ebf5edbeb4, type: 2}

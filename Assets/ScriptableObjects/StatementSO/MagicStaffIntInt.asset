@@ -15,6 +15,9 @@ MonoBehaviour:
   conditionSos:
   - {fileID: 11400000, guid: ea079a3a888f76143861829d39a9aea6, type: 2}
   conditionFailText: []
-  conditionSuccessText: []
+  conditionSuccessText:
+  - "As I grasped the staff, time's shroud lifted, and the surge of ancient wisdom
+    coursed through my being\u2014a tapestry of forgotten lore and mystical prowess
+    woven into my soul's fabric.     "
   effectSos:
   - {fileID: 11400000, guid: efa85a418abd2fa42a5480df65d25536, type: 2}

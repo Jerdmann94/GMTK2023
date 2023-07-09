@@ -14,7 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   conditionSos:
   - {fileID: 11400000, guid: 30a9b5e1c532e7d479c713cba5a3e25b, type: 2}
-  conditionFailText: []
-  conditionSuccessText: []
+  conditionFailText:
+  - 'Against the surging current, you swim with unwavering resolve, skillfully evading
+    treacherous rocks. The river''s futile resistance crumbles before your indomitable
+    strength. Finally, you reach the glittering treasure, claimed as a victorious
+    conqueror of the watery depths.     '
+  conditionSuccessText:
+  - 'The rough current tests your mettle as you struggle against its relentless force.
+    Bruised and battered, you persevere, finally reaching the shining treasure. '
   effectSos:
   - {fileID: 11400000, guid: a171d0118da00624883f4d5840da2fd1, type: 2}

@@ -16,7 +16,10 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 91b9a541370943b46a33aaba06dee558, type: 2}
   - {fileID: 11400000, guid: 8824d63760224f94ba06b0763e211678, type: 2}
   conditionFailText: []
-  conditionSuccessText: []
+  conditionSuccessText:
+  - "With supernatural swiftness, you dash past the perplexed guards, defying their
+    challenge. Opening both doors in unison, you unveil their deceit\u2014they converge
+    to the same path. Leaving them astounded, you stride forward, undeterred.     "
   effectSos:
   - {fileID: 11400000, guid: 04ca17c833da4fe47985db6dba844831, type: 2}
   - {fileID: 11400000, guid: 6767e2ad362be4b4285b26e15e8de056, type: 2}

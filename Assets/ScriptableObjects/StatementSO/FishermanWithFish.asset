@@ -15,7 +15,10 @@ MonoBehaviour:
   conditionSos:
   - {fileID: 11400000, guid: 278c158033be13147bfdcdf6eb4e98c1, type: 2}
   conditionFailText: []
-  conditionSuccessText: []
+  conditionSuccessText:
+  - 'Shaking off the enigmatic spell, you engage the fisherman in conversation. A
+    quick camaraderie blossoms, and you gladly partake in a sumptuous supper of roast
+    fish, relishing the newfound friendship forged amidst the dungeon''s depths.     '
   effectSos:
   - {fileID: 11400000, guid: dd68cb88a6522c5428ea5fd09d94d87b, type: 2}
   - {fileID: 11400000, guid: 6767e2ad362be4b4285b26e15e8de056, type: 2}

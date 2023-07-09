@@ -16,7 +16,11 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 91b9a541370943b46a33aaba06dee558, type: 2}
   - {fileID: 11400000, guid: 73200cc567ac7614d8b80f488055f504, type: 2}
   conditionFailText: []
-  conditionSuccessText: []
+  conditionSuccessText:
+  - 'Engaged in a deadly duel with your own shadow, it mirrors your swift style,
+    denying any advantage. Speed alone proves futile. A sudden surge of wit inspires
+    a cunning feint. As the shadow closes in, you strike with surprise, banishing
+    it in a triumphant twist of fate.     '
   effectSos:
   - {fileID: 11400000, guid: 5326acb153d0cae4ba8ccf7d11adf906, type: 2}
   - {fileID: 11400000, guid: 679838f517d76a9479e583266fcfd36d, type: 2}

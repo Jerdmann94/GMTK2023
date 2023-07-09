@@ -14,12 +14,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   statementSos:
   - {fileID: 11400000, guid: 894c7ad7679e3ab4e881f0bd8e23c4fe, type: 2}
-  cardSelectText: 
-  cardHoverText: 
+  cardSelectText: 'Within the dungeon room, you behold a lithe, nerdy alchemist.
+    His focused gaze meets yours as he studies acidic ooze dripping from the ceiling,
+    his aloof demeanor concealing hidden motives.     '
+  cardHoverText: Glop. Squelch. Sizzle...
   cardImage: {fileID: 21300000, guid: e9681db9187533942ac92d8fba6ec323, type: 3}
   invertedStatementSos:
   - {fileID: 11400000, guid: f9aaea5669b6d8547bcc76c401eabd95, type: 2}
-  invertedCardSelectText: 
-  invertedCardHoverText: 
-  normalRoomSprite: {fileID: 21300000, guid: eabb768789a77aa42916d6fd97315c9c, type: 3}
+  invertedCardSelectText: 'You venture into the dungeon''s chamber, where a standing
+    skeleton, cloaked in acidic ooze, greets your gaze. Amidst the corrosive mire,
+    a glimmer entices, beckoning you towards a hidden treasure or perilous revelation.     '
+  invertedCardHoverText: Glop. Squelch. Sizzle...
+  normalRoomSprite: {fileID: 0}
   inverseRoomSprite: {fileID: 0}

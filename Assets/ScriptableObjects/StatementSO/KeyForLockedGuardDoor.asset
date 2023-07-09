@@ -15,7 +15,10 @@ MonoBehaviour:
   conditionSos:
   - {fileID: 11400000, guid: 6deb870f7b780264f8baf5262dc15386, type: 2}
   conditionFailText: []
-  conditionSuccessText: []
+  conditionSuccessText:
+  - 'With your heavy iron key, the door''s resistance crumbles. Beyond lies a trove
+    of gems and gleaming coins, beckoning your covetous gaze. Greedily, you pocket
+    the riches, triumphant in your audacious plunder.     '
   effectSos:
   - {fileID: 11400000, guid: cbd71db14a7ff07468c6ed80df3da20d, type: 2}
   - {fileID: 11400000, guid: cba37215dcdc4d844a8d939aef4b510a, type: 2}

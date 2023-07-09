@@ -18,7 +18,8 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 4ec511ec544b8334fa0995b6d61a16b7, type: 2}
   cardSelectText: 'Within the dungeon''s depths, a towering figure awaits, surrounded
     by brimming goblets. Warmly inviting, he extends the choice, granting the chance
-    to partake from any chalice, in a toast to unknown fortunes.     '
+    to partake from any chalice, in a toast to unknown fortunes.  You drink your
+    fill and when the glass is empty, you are on your way.   '
   cardHoverText: 'Boisterous laughter, clinking goblets resound.     '
   cardImage: {fileID: 21300000, guid: 7e7ecc24df40a67468256711eb5aafaa, type: 3}
   invertedStatementSos:

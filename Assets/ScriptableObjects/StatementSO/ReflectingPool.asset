@@ -14,7 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   conditionSos:
   - {fileID: 11400000, guid: 73200cc567ac7614d8b80f488055f504, type: 2}
-  conditionFailText: []
-  conditionSuccessText: []
+  conditionFailText:
+  - 'Blessed with simplicity, introspection''s allure wanes, boredom replacing contemplation''s
+    embrace. Swiftly, you depart the tranquil glade, oblivious to its depth, eager
+    to pursue the dungeon''s enigmatic tapestry.     '
+  conditionSuccessText:
+  - "After cosmic contemplation, a vision reveals your insignificance, leaving you
+    shaken and cowed. Doubt creeps in\u2014had you delved too deeply into the recesses
+    of your mind, unearthing truths that humbled your very existence?  Humbled, you
+    move on.   "
   effectSos:
   - {fileID: 11400000, guid: a171d0118da00624883f4d5840da2fd1, type: 2}

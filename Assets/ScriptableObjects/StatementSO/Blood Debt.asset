@@ -15,6 +15,9 @@ MonoBehaviour:
   conditionSos:
   - {fileID: 11400000, guid: c0bd56906dba9094fbaeb19e947e50de, type: 2}
   conditionFailText: []
-  conditionSuccessText: []
+  conditionSuccessText:
+  - 'The priest demands alms, but your purse holds only meager coins. In response,
+    he reveals an ornate dagger, hinting at alternative means of payment, his intentions
+    shrouded in treacherous allure.     '
   effectSos:
   - {fileID: 11400000, guid: a171d0118da00624883f4d5840da2fd1, type: 2}

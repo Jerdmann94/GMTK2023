@@ -15,14 +15,19 @@ MonoBehaviour:
   statementSos:
   - {fileID: 11400000, guid: 66b0a50966b6aec499e187b96ea03eeb, type: 2}
   - {fileID: 11400000, guid: 52b48b2c9da518444b7d955ea6959287, type: 2}
-  cardSelectText: 
-  cardHoverText: 
+  cardSelectText: 'Entering the dungeon room, a hall of mirrors stretches, twisting
+    into shadowy depths. With cautious steps, your reflection gazes back, malevolently
+    distorted, each mirror a portal to a twisted reflection of your own self.     '
+  cardHoverText: The room next door is eerily quiet...
   cardImage: {fileID: 21300000, guid: d2002d542d350bb47abb661c187ff706, type: 3}
   invertedStatementSos:
   - {fileID: 11400000, guid: f14481bca29101742aab207c0f39121f, type: 2}
+  - {fileID: 11400000, guid: 763f6b6c95714c543bb2825d1adad2b9, type: 2}
   - {fileID: 11400000, guid: e4c0b45f36308f148ad071b354a65475, type: 2}
-  - {fileID: 11400000, guid: e4c0b45f36308f148ad071b354a65475, type: 2}
-  invertedCardSelectText: 
-  invertedCardHoverText: 
-  normalRoomSprite: {fileID: 21300000, guid: cc131cc0bfd0fd5488d53070f932e40c, type: 3}
+  - {fileID: 11400000, guid: 7a0c6ad002e82174585b51b28e4b631f, type: 2}
+  invertedCardSelectText: 'Upon entering the dungeon room, a colossal mirror wall
+    looms. Startlingly, your shadowy reflection leaps forth, menacingly advancing
+    towards you with eerie intent, as if a dark fragment of your own essence unleashed.     '
+  invertedCardHoverText: The room next door is eerily quiet...
+  normalRoomSprite: {fileID: 0}
   inverseRoomSprite: {fileID: 0}

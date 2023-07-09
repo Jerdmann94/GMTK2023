@@ -14,7 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   conditionSos:
   - {fileID: 11400000, guid: 97ce5841b18d5e84d86c7cd0fd8c7b28, type: 2}
-  conditionFailText: []
-  conditionSuccessText: []
+  conditionFailText:
+  - Within the ossuary's grip, skeletal limbs claw at your garments, impeding your
+    advance. You battle against the relentless grasps, inching closer to the coveted
+    cup of coins.
+  conditionSuccessText:
+  - 'Entering the ossuary, skeletal limbs assail, gripping your clothing. Unyielding,
+    your strength shatters brittle bones, clearing a path. Striding with ease, you
+    approach the cup, undeterred by the feeble resistance of the vanquished remains.     '
   effectSos:
   - {fileID: 11400000, guid: 5c8c80b1eaf4d754497ac1087c76b1dd, type: 2}

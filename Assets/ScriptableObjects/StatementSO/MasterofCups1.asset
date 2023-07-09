@@ -16,8 +16,6 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 97ce5841b18d5e84d86c7cd0fd8c7b28, type: 2}
   conditionFailText: []
   conditionSuccessText:
-  - 'Elixir imbibed, strength surges forth, nourishing essence revitalizing weary
-    bones. Ambrosia''s embrace bestows vigor, sating hunger''s gnaw, a sublime elation
-    as vitality blooms anew within.     '
+  - 
   effectSos:
   - {fileID: 11400000, guid: 7ef109de58a6e5046876f9b1604516fb, type: 2}

@@ -14,7 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   conditionSos:
   - {fileID: 11400000, guid: 278c158033be13147bfdcdf6eb4e98c1, type: 2}
-  conditionFailText: []
-  conditionSuccessText: []
+  conditionFailText:
+  - "The guards' devilish grins reveal a twisted truth\u2014one door leads deeper,
+    the other to certain demise. But beware! One lies, the other speaks true. You
+    feel you've heard this riddle before and venture a cautious answer."
+  conditionSuccessText:
+  - "The guards' devilish grins reveal a twisted truth\u2014one door leads deeper,
+    the other to certain demise. But beware! One lies, the other speaks true. Your
+    mind reels, entangled in their deceitful game.     "
   effectSos:
   - {fileID: 11400000, guid: a171d0118da00624883f4d5840da2fd1, type: 2}

@@ -13,7 +13,11 @@ MonoBehaviour:
   m_Name: GetRoyalSeal2Diving
   m_EditorClassIdentifier: 
   conditionSos: []
-  conditionFailText: []
-  conditionSuccessText: []
+  conditionFailText:
+  - 
+  conditionSuccessText:
+  - "Safe upon the shore, you examine your hard-won prize\u2014a royal seal adorned
+    with the sigil of the House of Cups. Its regal elegance imbues you with a sense
+    of destiny, a key to hidden gifts.     "
   effectSos:
   - {fileID: 11400000, guid: e9aeffa92a992d0419491e6fc447a4c8, type: 2}

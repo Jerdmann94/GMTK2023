@@ -14,7 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   conditionSos: []
   conditionFailText: []
-  conditionSuccessText: []
+  conditionSuccessText:
+  - 'Engaged in a grueling battle, attrition takes its toll. Exhausted and battered,
+    you persevere as the necromancer''s spells wane, until he''s left empty-handed.
+    Victory tainted by scars, you emerge triumphant, yet deeply wounded from the
+    arduous confrontation.     '
   effectSos:
   - {fileID: 11400000, guid: a171d0118da00624883f4d5840da2fd1, type: 2}
   - {fileID: 11400000, guid: c03d74b4f7f912949bbba0ebf5edbeb4, type: 2}

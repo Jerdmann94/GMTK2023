@@ -15,6 +15,9 @@ MonoBehaviour:
   conditionSos:
   - {fileID: 11400000, guid: a4256366f93e29f49bae518ddbe691d1, type: 2}
   conditionFailText: []
-  conditionSuccessText: []
+  conditionSuccessText:
+  - "Grasping the weighty staff, visions of carnage danced in my mind's eye\u2014an
+    instrument of wrath, poised to shatter bones and sunder foes, a conduit for brutal
+    retribution and merciless devastation.     "
   effectSos:
   - {fileID: 11400000, guid: 5326acb153d0cae4ba8ccf7d11adf906, type: 2}
