@@ -4,20 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2618cb58-533d-4ef1-8b5d-a1e5602ad518" name="Changes" comment="test">
+    <list default="true" id="2618cb58-533d-4ef1-8b5d-a1e5602ad518" name="Changes" comment="push">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.GMTK 2023/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GMTK 2023/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Scene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Coins/1 of Coins.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Coins/1 of Coins.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Coins/5 of Coins.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Coins/5 of Coins.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Swords/5 of Swords.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Swords/5 of Swords.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/CardManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CardManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CardObject.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CardObject.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/ChatManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ChatManager.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerData.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/StatementObject.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/StatementObject.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +19,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/../AppData/Local/JetBrains/Shared/vAny/DecompilerCache/decompiler/a1efe86478034c12aa24d00c7dc715fe15a000/81/59358e77/GameObject.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/erdma/GMTK 2023/Assets/ScriptableObjects/CardSO/Coins/1 of Coins.asset" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/erdma/GMTK 2023/Assets/ScriptableObjects/CardSO/Coins/1 of Coins.asset" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/erdma/GMTK 2023/Assets/ScriptableObjects/CardSO/Swords/1 of Swords.asset" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/erdma/GMTK 2023/Assets/ScriptableObjects/CardSO/Wands/1 of Wands.asset" root0="SKIP_HIGHLIGHTING" />
@@ -120,7 +114,7 @@
       <workItem from="1688679612641" duration="276000" />
       <workItem from="1688735715964" duration="180000" />
       <workItem from="1688763298619" duration="15007000" />
-      <workItem from="1688816574239" duration="52224000" />
+      <workItem from="1688816574239" duration="53261000" />
     </task>
     <task id="LOCAL-00001" summary="Init">
       <created>1688735857323</created>
@@ -248,7 +242,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688919315483</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="push">
+      <created>1688923381999</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1688923381999</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -271,7 +272,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Init" />
-    <MESSAGE value="push" />
     <MESSAGE value="fixing it" />
     <MESSAGE value="stupid git" />
     <MESSAGE value="no metas" />
@@ -287,7 +287,8 @@
     <MESSAGE value="repush" />
     <MESSAGE value="pushing assets" />
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="push" />
+    <option name="LAST_COMMIT_MESSAGE" value="push" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>

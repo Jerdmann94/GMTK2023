@@ -33,13 +33,9 @@ public class ChatManager : MonoBehaviour
 
     public void ClearMessages()
     {
-        var i = 0;
-        while (chatPanel.childCount > 1)
+        foreach (Transform transform in chatPanel)
         {
-            i++;
-            Destroy(chatPanel.GetChild(0).gameObject);
-            if (i > 30)
-                break;
+            UnityEngine.Object.Destroy(transform.gameObject);
         }
 
         messages.Clear();

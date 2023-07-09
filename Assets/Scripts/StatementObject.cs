@@ -45,7 +45,7 @@ public class StatementObject
                 if (!string.IsNullOrEmpty(failText))
                 {
                     chatManager.makeChatMessage(failText);
-                    //await Task.Delay(3000);
+                    await Task.Delay(3000);
 
                     Debug.Log("Did delay 2");
                 }
@@ -57,7 +57,7 @@ public class StatementObject
         if (!string.IsNullOrEmpty(successText))
         {
             chatManager.makeChatMessage(successText);
-            //await Task.Delay(3000);
+            await Task.Delay(3000);
 
             Debug.Log("Did delay 3");
         }
