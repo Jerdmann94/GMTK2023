@@ -14,7 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   conditionSos:
   - {fileID: 11400000, guid: 9f5ab0b131aeadb4090e2e13cefe3b27, type: 2}
-  conditionFailText: []
-  conditionSuccessText: []
+  conditionFailText:
+  - 'Reacting swiftly, you withdraw your hand from the copper serpent''s strike,
+    avoiding its venomous bite. With a decisive stomp, you crush its head beneath
+    your heel, triumphantly retrieving the shimmering scales as a hard-earned reward.  '
+  conditionSuccessText:
+  - 'As the copper serpent sinks its fangs into your hand, a surge of determination
+    fills you. With a swift motion, you crush its head, triumphantly tearing off
+    its shimmering metal scales as a grim memento of your victory.     '
   effectSos:
   - {fileID: 11400000, guid: a171d0118da00624883f4d5840da2fd1, type: 2}

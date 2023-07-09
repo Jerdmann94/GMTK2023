@@ -14,12 +14,17 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   statementSos:
   - {fileID: 11400000, guid: f5c076660f9661d4ebd226c0e487de9b, type: 2}
-  cardSelectText: 
-  cardHoverText: 
+  cardSelectText: 'Entering the dungeon room, you come across a severed head adorned
+    with an intricate crystal eyepiece. Curiosity piques as you don the artifact,
+    perceiving the world with newfound clarity, glimpsing its true nature and hidden
+    mysteries.     '
+  cardHoverText: The room next door is eerily quiet...
   cardImage: {fileID: 21300000, guid: 430191d3f2b292a4ea3e318be86c34a8, type: 3}
   invertedStatementSos:
   - {fileID: 11400000, guid: ca534e13c25a66f47973a980d6e3a400, type: 2}
-  invertedCardSelectText: 
-  invertedCardHoverText: 
+  invertedCardSelectText: 'Entering the dungeon room, a severed head''s gaze fixates
+    upon you, its eyes tracking your every move. An unsettling sensation grips you,
+    your connection to reality faltering under its unrelenting and penetrating gaze.     '
+  invertedCardHoverText: The room next door is eerily quiet...
   normalRoomSprite: {fileID: 21300000, guid: 8bc2fa9d4ef43c84486ba3d324cdcfce, type: 3}
   inverseRoomSprite: {fileID: 0}

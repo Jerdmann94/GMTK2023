@@ -14,12 +14,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   statementSos:
   - {fileID: 11400000, guid: 66dcaa834cbb1fb4791ecb0b69b3d2ec, type: 2}
-  cardSelectText: 
-  cardHoverText: 
+  cardSelectText: 'You enter the dungeon''s chamber, dimly lit, and spy a blind beggar,
+    frail and hunched. His alms cup trembles, its melancholy echoes intertwining
+    with the stale air.     '
+  cardHoverText: You hear the clattering of coins in an empty cup...
   cardImage: {fileID: 21300000, guid: 9c74473c1d3f4614da5b91d378df552d, type: 3}
   invertedStatementSos:
   - {fileID: 11400000, guid: b0995fc1b9722714ba7637eea3f25c8c, type: 2}
-  invertedCardSelectText: 
-  invertedCardHoverText: 
+  invertedCardSelectText: 'You enter the dungeon''s chamber, dimly lit, and spy a
+    blind beggar, frail and hunched. His alms cup trembles, its melancholy echoes
+    intertwining with the stale air.     '
+  invertedCardHoverText: You hear the clattering of coins in an empty cup...
   normalRoomSprite: {fileID: 21300000, guid: 4395afeb54059e94ca94bb3ee2374898, type: 3}
   inverseRoomSprite: {fileID: 0}

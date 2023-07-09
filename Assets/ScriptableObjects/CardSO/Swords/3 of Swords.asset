@@ -14,12 +14,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   statementSos:
   - {fileID: 11400000, guid: f176ded7d6aedf64bae857069f2cd140, type: 2}
-  cardSelectText: 
-  cardHoverText: 
+  cardSelectText: 'Within the dungeon room, a heavy metal amulet rests on the ground.
+    Draping it around your neck, you sense its deep connection to elemental forces,
+    infusing you with latent magical potential from the very depths of the earth.     '
+  cardHoverText: The room next door is eerily quiet...
   cardImage: {fileID: 21300000, guid: f2aaac17bcafb064881c0e16792bf583, type: 3}
   invertedStatementSos:
   - {fileID: 11400000, guid: 6f4b19e3599a0fe449ecdec9b2f525bc, type: 2}
-  invertedCardSelectText: 
-  invertedCardHoverText: 
+  invertedCardSelectText: 'In the dungeon room, a heavy metal torc awaits on the
+    ground. You clasp it around your neck, convinced that its weight alone will aid
+    in sculpting your muscles, empowering you for the challenges that lie ahead.     '
+  invertedCardHoverText: The room next door is eerily quiet...
   normalRoomSprite: {fileID: 21300000, guid: 8e52502cb1b67a449be93c87a2c94259, type: 3}
   inverseRoomSprite: {fileID: 0}

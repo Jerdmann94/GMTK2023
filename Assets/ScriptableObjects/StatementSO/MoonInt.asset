@@ -14,8 +14,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   conditionSos:
   - {fileID: 11400000, guid: 2ba87fe6a3e00514299416d4d9f6a9b7, type: 2}
-  conditionFailText: []
-  conditionSuccessText: []
+  conditionFailText:
+  - 'The moon face stirs, luring you into its captivating radiance. Enveloped in
+    its mesmerizing glow, you slump in a trance, feeling your vitality drain. With
+    great effort, you break free, escaping its consuming grasp before it saps you
+    entirely.     '
+  conditionSuccessText:
+  - 'The moon face stirs, beckoning you into its enchanting glow. Your mental fortitude
+    repels its invasive tendrils. Yet, in retreat, you observe its cunning technique,
+    wary of its hypnotic allure and cunning power.     '
   effectSos:
   - {fileID: 11400000, guid: 7ef109de58a6e5046876f9b1604516fb, type: 2}
   - {fileID: 11400000, guid: 6767e2ad362be4b4285b26e15e8de056, type: 2}

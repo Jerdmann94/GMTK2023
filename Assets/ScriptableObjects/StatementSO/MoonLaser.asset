@@ -14,8 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   conditionSos:
   - {fileID: 11400000, guid: 73999feaff05677428d9e157cf55e3e0, type: 2}
-  conditionFailText: []
-  conditionSuccessText: []
+  conditionFailText:
+  - 'The sun face awakens, unleashing searing beams from its eyes. They sear into
+    your flesh, leaving a painful mark. With urgency, you retreat from the room,
+    evading its lethal onslaught.     '
+  conditionSuccessText:
+  - 'The sun face awakens, unleashing scorching beams from its fiery eyes. Swiftly,
+    you evade their searing trajectory, seizing the moment to pry the crimson gems
+    from its gaze before it strikes anew.     '
   effectSos:
   - {fileID: 11400000, guid: c03d74b4f7f912949bbba0ebf5edbeb4, type: 2}
   - {fileID: 11400000, guid: 6767e2ad362be4b4285b26e15e8de056, type: 2}

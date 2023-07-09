@@ -15,7 +15,10 @@ MonoBehaviour:
   conditionSos:
   - {fileID: 11400000, guid: 8824d63760224f94ba06b0763e211678, type: 2}
   conditionFailText: []
-  conditionSuccessText: []
+  conditionSuccessText:
+  - 'You reach into your pack, revealing a trinket of forgotten worth. The beggar''s
+    withered hand accepts it, and in return, five coins clink gently, claiming their
+    place in your palm''s embrace.     '
   effectSos:
   - {fileID: 11400000, guid: 04ca17c833da4fe47985db6dba844831, type: 2}
   - {fileID: 11400000, guid: c03d74b4f7f912949bbba0ebf5edbeb4, type: 2}

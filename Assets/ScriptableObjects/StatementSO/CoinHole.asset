@@ -15,6 +15,10 @@ MonoBehaviour:
   conditionSos:
   - {fileID: 11400000, guid: 6deb870f7b780264f8baf5262dc15386, type: 2}
   conditionFailText: []
-  conditionSuccessText: []
+  conditionSuccessText:
+  - 'Examining the coin, you spot a keyhole, curiosity piqued. On a whim, you insert
+    your iron key, and to your astonishment, it turns. The coin transforms, revealing
+    a pocket dimension brimming with gleeful coins that eagerly tumble into your
+    purse.     '
   effectSos:
   - {fileID: 11400000, guid: cba37215dcdc4d844a8d939aef4b510a, type: 2}
