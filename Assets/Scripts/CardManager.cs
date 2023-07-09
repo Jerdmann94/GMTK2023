@@ -12,6 +12,8 @@ public class CardManager : MonoBehaviour
     public ChatManager chatManager;
     public RoomObjectManager roomObjectManager;
 
+    public GameManager gameManager;
+
     // CARD DATA
     public List<CardSO> cardSos;
     public CardSO relicSo;
@@ -34,7 +36,7 @@ public class CardManager : MonoBehaviour
     public void displayHand(CardObject cardObject, int i)
     {
         var ttt = handUi[i].GetComponent<ToolTipTrigger>();
-        ttt.header = cardObject.name + " Inverted: " + cardObject.isInverted;
+        ttt.header = cardObject.name;
         ttt.text = cardObject.hoverText;
         handUi[i].setUIImage(cardObject.sprite, cardObject.isInverted);
     }
@@ -61,6 +63,8 @@ public class CardManager : MonoBehaviour
         {
             handScript.GetComponent<Button>().interactable = false;
         }
+
+        playerData.Food--;
 
         if (_hand[i].name == "Relic")
         {
@@ -113,6 +117,13 @@ public class CardManager : MonoBehaviour
             }
         }
 
+        if (_returnTrip && _deck.Count < 4)
+        {
+            gameManager.gameWin();
+
+            return;
+        }
+
         _chosenCards.Add(_hand[i]);
         _hand.RemoveAt(i);
         foreach (var card in _hand)
@@ -157,12 +168,18 @@ public class CardManager : MonoBehaviour
         drawHand();
         foreach (var handScript in handUi)
         {
-            handScript.GetComponent<Button>().interactable = false;
+            handScript.GetComponent<Button>().interactable = true;
         }
     }
 
     public void initDeck()
     {
+        chatManager.ClearMessages();
+        foreach (var handScript in handUi)
+        {
+            handScript.GetComponent<Button>().interactable = true;
+        }
+
         _playedCounter = 0;
         _returnTrip = false;
         _deck = new Queue<CardObject>();

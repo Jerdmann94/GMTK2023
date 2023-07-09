@@ -123,8 +123,8 @@ public class PlayerData : MonoBehaviour
         get => life;
         set
         {
-            checkGameEnd(food);
             life = value;
+            checkGameEnd(life);
             playerStatUIManager.SetStats();
         }
     }
@@ -219,7 +219,7 @@ public class PlayerData : MonoBehaviour
         mana = 0;
         life = 6;
         gold = 0;
-        food = 4;
+        food = 12;
         royalSeal1 = false;
         royalSeal2 = false;
         royalSeal3 = false;

@@ -5362,6 +5362,7 @@ MonoBehaviour:
   - {fileID: 1532034477}
   chatManager: {fileID: 599887332}
   roomObjectManager: {fileID: 20181176}
+  gameManager: {fileID: 1838213799}
   cardSos:
   - {fileID: 11400000, guid: b2869f856af7912458466bd85126b014, type: 2}
   - {fileID: 11400000, guid: fdc94edbfed528543860187a1dd019d9, type: 2}

@@ -30,6 +30,14 @@ public class ChatManager : MonoBehaviour
             Destroy(toDelete.textObject.gameObject);
         }
     }
+
+    public void ClearMessages()
+    {
+        while (messages.Count > 1)
+        {
+            Destroy(messages[0].textObject.gameObject);
+        }
+    }
 }
 
 public class Message
