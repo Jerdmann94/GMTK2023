@@ -35,6 +35,7 @@ public class PlayerData : MonoBehaviour
     [SerializeField] private bool mindlessBody;
     [SerializeField] private bool ironKey;
     [SerializeField] private bool prometheus;
+    [SerializeField] private bool goblin;
 
 
     public void clearTempStats()
@@ -181,6 +182,12 @@ public class PlayerData : MonoBehaviour
     {
         get => prometheus;
         set => prometheus = value;
+    }
+
+    public bool Goblin
+    {
+        get => goblin;
+        set => goblin = value;
     }
 
 

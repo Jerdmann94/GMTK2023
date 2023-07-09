@@ -10,8 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: b657ae6d14d40a044881d91d1432ee23, type: 3}
-  m_Name: GainRoyalSeal2
+  m_Name: Gain1Goblin
   m_EditorClassIdentifier: 
   op: 2
-  key: RoyalSeal2
-  value: 1
+  key: Goblin
+  value: 0

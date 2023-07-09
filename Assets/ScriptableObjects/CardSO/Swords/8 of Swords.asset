@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5628eaf73b6bb574594378f907081f73, type: 3}
+  m_Name: 8 of Swords
+  m_EditorClassIdentifier: 
+  statementSos:
+  - {fileID: 11400000, guid: 17a10ac1c12ecb642a5cd0c4be620110, type: 2}
+  - {fileID: 11400000, guid: b76f3471d145b1d47bd06dd92469f44e, type: 2}
+  - {fileID: 11400000, guid: 15008e6204b2d0a49b5846355520dbea, type: 2}
+  - {fileID: 11400000, guid: 8b03206d91902a94aad5b2a8da24b867, type: 2}
+  - {fileID: 11400000, guid: d88554c330c9c2d46ba633262da37701, type: 2}
+  cardSelectText: 
+  cardHoverText: 
+  cardImage: {fileID: 21300000, guid: 7d65d382d6f26664890d3b771bdfd04c, type: 3}
+  invertedStatementSos:
+  - {fileID: 11400000, guid: dd2a30307d190b94fac21ed16e305786, type: 2}
+  - {fileID: 11400000, guid: 308f0ed6590afbd449b713596cea3736, type: 2}
+  invertedCardSelectText: 
+  invertedCardHoverText: 
+  normalRoomSprite: {fileID: 0}
+  inverseRoomSprite: {fileID: 0}
