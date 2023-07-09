@@ -14,12 +14,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   statementSos:
   - {fileID: 11400000, guid: 07c4820cf51a1114288ca59e3d8e083b, type: 2}
-  cardSelectText: 5 cups
-  cardHoverText: 
+  cardSelectText: 'Infinite walls of stone entwine, a labyrinthine web defying escape,
+    ensnaring the soul in a perplexing dance of unyielding corridors.     '
+  cardHoverText: The room next door is eerily quiet...
   cardImage: {fileID: 21300000, guid: bb4c25c1bb64cb848b3e16a8bbf5563f, type: 3}
   invertedStatementSos:
   - {fileID: 11400000, guid: 97567a2f8da3ca34aaa99db81d217ed1, type: 2}
-  invertedCardSelectText: invert 5 of cups
-  invertedCardHoverText: 
+  invertedCardSelectText: 'The chamber unfolds as an imposing maze, yet a trail of
+    breadcrumbs beckons amidst a scurry of rats, devouring the path to reveal a dubious
+    guide through this perplexing labyrinth.     '
+  invertedCardHoverText: The skittering of tiny feet...
   normalRoomSprite: {fileID: 21300000, guid: 14c63b3fdaec51b409d37307adaa4b54, type: 3}
   inverseRoomSprite: {fileID: 0}

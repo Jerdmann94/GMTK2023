@@ -15,6 +15,9 @@ MonoBehaviour:
   conditionSos:
   - {fileID: 11400000, guid: 73200cc567ac7614d8b80f488055f504, type: 2}
   conditionFailText: []
-  conditionSuccessText: []
+  conditionSuccessText:
+  - 'Amidst the infernal howl, comprehension dawns, demonic energy courses through
+    veins, empowering mortal flesh, strength surging, a twisted union of darkness
+    and might fueling resilience amidst chaos.     '
   effectSos:
   - {fileID: 11400000, guid: f5a01e97aded7c349b12a00237331b2e, type: 2}

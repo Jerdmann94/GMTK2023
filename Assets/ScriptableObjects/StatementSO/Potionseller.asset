@@ -14,6 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   conditionSos:
   - {fileID: 11400000, guid: 605c189c06cac6941abcd71c8e34c2ad, type: 2}
+  conditionFailText:
+  - 'Alas! Frustration creeps as one''s meager purse falls short, denying access
+    to mystical brews that could change fate''s course.     '
+  conditionSuccessText:
+  - 'From the potion''s embrace, vitality surges forth, mending wounds, resurrecting
+    vigor, a rejuvenation of spirit as life''s vigor is restored.     '
   effectSos:
   - {fileID: 11400000, guid: 7ef109de58a6e5046876f9b1604516fb, type: 2}
   - {fileID: 11400000, guid: 6f98de95a8ff22e45ad8d4da4afe0483, type: 2}

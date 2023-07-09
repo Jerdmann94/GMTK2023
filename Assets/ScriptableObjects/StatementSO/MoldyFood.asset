@@ -14,6 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   conditionSos: []
   conditionFailText: []
-  conditionSuccessText: []
+  conditionSuccessText:
+  - 'Amidst the forsaken remnants, scavenging for sustenance, discerning eyes discover
+    morsels that defy decay, a glimmer of hope amidst the rot, a taste of questionable
+    salvation in the dungeon''s depths.  '
   effectSos:
   - {fileID: 11400000, guid: 7ef109de58a6e5046876f9b1604516fb, type: 2}

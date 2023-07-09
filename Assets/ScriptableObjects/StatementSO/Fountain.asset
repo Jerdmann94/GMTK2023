@@ -13,5 +13,9 @@ MonoBehaviour:
   m_Name: Fountain
   m_EditorClassIdentifier: 
   conditionSos: []
+  conditionFailText: []
+  conditionSuccessText:
+  - 'Quenching lips embrace pure nectar, coursing vitality, as the rejuvenating elixir
+    invigorates the soul with each divine sip.     '
   effectSos:
   - {fileID: 11400000, guid: dd68cb88a6522c5428ea5fd09d94d87b, type: 2}

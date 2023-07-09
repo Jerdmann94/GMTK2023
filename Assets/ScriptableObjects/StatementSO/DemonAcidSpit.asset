@@ -14,7 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   conditionSos:
   - {fileID: 11400000, guid: 9f5ab0b131aeadb4090e2e13cefe3b27, type: 2}
-  conditionFailText: []
-  conditionSuccessText: []
+  conditionFailText:
+  - 'Acidic spit arcs forth, a malevolent assault, nimble steps evade the crow-like
+    demon''s venomous wrath, a dance of survival amidst the perilous dungeon''s deadly
+    trials.     '
+  conditionSuccessText:
+  - 'With a vile hiss, the crow-like demon spits acidic venom, striking true, searing
+    flesh with relentless agony, as the corrosive substance eats away, leaving scars
+    and an indelible mark of suffering.     '
   effectSos:
   - {fileID: 11400000, guid: a171d0118da00624883f4d5840da2fd1, type: 2}

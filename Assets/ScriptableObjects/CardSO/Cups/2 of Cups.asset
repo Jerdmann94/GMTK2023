@@ -14,12 +14,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   statementSos:
   - {fileID: 11400000, guid: 38f8285d0bd4d0f46888c1beb43746ae, type: 2}
-  cardSelectText: 2
-  cardHoverText: 
+  cardSelectText: "Within the chamber, a modest purveyor displays arcane vials\u2014mysterious
+    elixirs promising secrets, peril, and the allure of untamed power.     "
+  cardHoverText: '"I am going into battle..."'
   cardImage: {fileID: 21300000, guid: 0b62c7b73c476fd4b9bff663e92d0cbc, type: 3}
   invertedStatementSos:
   - {fileID: 11400000, guid: 371ec00e4a1e95847af3e987e4e122e8, type: 2}
-  invertedCardSelectText: 2
-  invertedCardHoverText: 
+  invertedCardSelectText: "An enigmatic sanctum unfurls, strewn with vials of potent
+    enchantments\u2014exotic brews enticing the curious to taste wonders or tempt
+    chaos.     "
+  invertedCardHoverText: '"I tell you, I am going into battle..."'
   normalRoomSprite: {fileID: 21300000, guid: 6b771bbb5521cd940a347d770280c824, type: 3}
   inverseRoomSprite: {fileID: 21300000, guid: ccf0303bcb033af439a017297b51d3ce, type: 3}

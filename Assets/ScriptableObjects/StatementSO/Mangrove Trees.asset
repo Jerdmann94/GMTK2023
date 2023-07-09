@@ -14,6 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   conditionSos: []
   conditionFailText: []
-  conditionSuccessText: []
+  conditionSuccessText:
+  - "With nimble hands, oranges plucked, a harvest secured\u2014sun-kissed globes
+    nestled within the pack, a tantalizing reminder of nature's abundance to sustain
+    the journey's arduous path.     "
   effectSos:
   - {fileID: 11400000, guid: b90fe1115ad612b42aa1bfafdc65eab2, type: 2}

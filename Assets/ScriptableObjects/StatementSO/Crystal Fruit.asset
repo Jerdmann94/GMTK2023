@@ -13,5 +13,7 @@ MonoBehaviour:
   m_Name: Crystal Fruit
   m_EditorClassIdentifier: 
   conditionSos: []
+  conditionFailText: []
+  conditionSuccessText: []
   effectSos:
   - {fileID: 11400000, guid: befa6df32de6ed54c8a8be0501297d5d, type: 2}

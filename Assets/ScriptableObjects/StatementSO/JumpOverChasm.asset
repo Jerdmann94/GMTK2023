@@ -14,7 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   conditionSos:
   - {fileID: 11400000, guid: 9f5ab0b131aeadb4090e2e13cefe3b27, type: 2}
-  conditionFailText: []
-  conditionSuccessText: []
+  conditionFailText:
+  - 'With agile grace, the ledge is traversed, each nimble step teetering on the
+    edge of abyss, defying fate''s grasp, as the heart races amidst the dance with
+    perilous depths.     '
+  conditionSuccessText:
+  - 'Foot slips, fate cruelly decides, hurtling down the chasm''s depths, flesh meeting
+    jagged stone, pain echoing as wounds mar the body, a descent into darkness and
+    shattered hopes.     '
   effectSos:
   - {fileID: 11400000, guid: 352f7e5102cd9cd4eb46af5f7b7e163e, type: 2}

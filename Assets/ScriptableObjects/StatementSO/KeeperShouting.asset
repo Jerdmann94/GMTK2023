@@ -15,6 +15,9 @@ MonoBehaviour:
   conditionSos:
   - {fileID: 11400000, guid: 278c158033be13147bfdcdf6eb4e98c1, type: 2}
   conditionFailText: []
-  conditionSuccessText: []
+  conditionSuccessText:
+  - 'Vitriolic insults rain, piercing psyche, rattling nerves. The giant''s words,
+    barbed and biting, leave an indelible mark, unsettling the mind and casting a
+    shadow upon the spirit''s resilience.     '
   effectSos:
   - {fileID: 11400000, guid: a171d0118da00624883f4d5840da2fd1, type: 2}

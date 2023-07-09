@@ -15,13 +15,17 @@ MonoBehaviour:
   statementSos:
   - {fileID: 11400000, guid: 1a6e62b4100e2094ca8832d11b101094, type: 2}
   - {fileID: 11400000, guid: 1b0cbc8367021494eb19e1fda9f3a4c6, type: 2}
-  cardSelectText: 7 cups
-  cardHoverText: 
+  cardSelectText: "The dungeon unveils a harrowing sight\u2014a vast, unfathomable
+    chasm cleaving the floor, an abyss of uncertainty beckoning, stirring the soul's
+    tremor at the precipice of the unknown.     "
+  cardHoverText: Eerie howls echo...
   cardImage: {fileID: 21300000, guid: dbea1448bb077f040a6121f367a7c127, type: 3}
   invertedStatementSos:
   - {fileID: 11400000, guid: e788d3184c9cb124b816e97facac762e, type: 2}
   - {fileID: 11400000, guid: e173b42c636d0d84b933849ca36914af, type: 2}
-  invertedCardSelectText: 7
-  invertedCardHoverText: 
+  invertedCardSelectText: "A room of dread unfolds\u2014a hellish maw yawns wide,
+    seething with demonic energy, its hisses and moans permeating the air, a gateway
+    to damnation invoking primal fear in the heart's core.     "
+  invertedCardHoverText: Hissing, malevolent whispers...
   normalRoomSprite: {fileID: 21300000, guid: 9b30e4bf0fe4da14f9e0e81f12423106, type: 3}
   inverseRoomSprite: {fileID: 0}

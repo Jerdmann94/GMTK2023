@@ -13,6 +13,10 @@ MonoBehaviour:
   m_Name: DrinkWine
   m_EditorClassIdentifier: 
   conditionSos: []
+  conditionFailText: []
+  conditionSuccessText:
+  - 'Velvet nectar cascades, an elixir of fulfillment, granting celestial enlightenment,
+    sating the soul''s thirst with ethereal bliss and profound wisdom.     '
   effectSos:
   - {fileID: 11400000, guid: dd68cb88a6522c5428ea5fd09d94d87b, type: 2}
   - {fileID: 11400000, guid: efa85a418abd2fa42a5480df65d25536, type: 2}

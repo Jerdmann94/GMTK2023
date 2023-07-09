@@ -15,7 +15,10 @@ MonoBehaviour:
   conditionSos:
   - {fileID: 11400000, guid: 6deb870f7b780264f8baf5262dc15386, type: 2}
   conditionFailText: []
-  conditionSuccessText: []
+  conditionSuccessText:
+  - 'With your heavy iron key, liberation dawns, unshackling the tortured soul, a
+    torrent of fiery power erupts, banishing demons. Grateful, he offers a gleaming
+    ruby, a token of his profound gratitude.     '
   effectSos:
   - {fileID: 11400000, guid: cbd71db14a7ff07468c6ed80df3da20d, type: 2}
   - {fileID: 11400000, guid: cba37215dcdc4d844a8d939aef4b510a, type: 2}

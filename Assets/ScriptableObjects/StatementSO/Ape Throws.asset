@@ -14,7 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   conditionSos:
   - {fileID: 11400000, guid: 9f5ab0b131aeadb4090e2e13cefe3b27, type: 2}
-  conditionFailText: []
-  conditionSuccessText: []
+  conditionFailText:
+  - 'As stones hurtle through the air, nimble steps evade their wrath, weaving through
+    the onslaught with grace, escaping the orangutan''s wrathful barrage in a dance
+    of survival.     '
+  conditionSuccessText:
+  - 'Stones pummel, striking flesh, inflicting pain as the orangutan''s fury finds
+    its mark, leaving a trail of bruises and agony, a testament to the perilous encounter
+    within the dungeon''s depths.  '
   effectSos:
   - {fileID: 11400000, guid: a171d0118da00624883f4d5840da2fd1, type: 2}

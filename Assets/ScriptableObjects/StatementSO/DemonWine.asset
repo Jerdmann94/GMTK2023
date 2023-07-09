@@ -13,6 +13,10 @@ MonoBehaviour:
   m_Name: DemonWine
   m_EditorClassIdentifier: 
   conditionSos: []
+  conditionFailText: []
+  conditionSuccessText:
+  - 'Sinister libation intoxicates, satisfaction mingled with bewildering enchantment,
+    a tantalizing elixir that taints the mind with disquieting allure.     '
   effectSos:
   - {fileID: 11400000, guid: dd68cb88a6522c5428ea5fd09d94d87b, type: 2}
   - {fileID: 11400000, guid: 118ae9721b07ac04bae7501d08e1cb17, type: 2}

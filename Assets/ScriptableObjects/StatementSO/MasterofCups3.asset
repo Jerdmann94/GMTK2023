@@ -15,6 +15,9 @@ MonoBehaviour:
   conditionSos:
   - {fileID: 11400000, guid: 73200cc567ac7614d8b80f488055f504, type: 2}
   conditionFailText: []
-  conditionSuccessText: []
+  conditionSuccessText:
+  - 'Liquid elixir sipped, wit flourishes, mind nourished. An enchanting concoction
+    bestows the gift of cleverness, while satiating the primal hunger, harmonizing
+    sustenance and intellectual delight within.     '
   effectSos:
   - {fileID: 11400000, guid: 7ef109de58a6e5046876f9b1604516fb, type: 2}

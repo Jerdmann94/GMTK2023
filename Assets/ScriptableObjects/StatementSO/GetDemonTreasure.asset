@@ -14,6 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   conditionSos: []
   conditionFailText: []
-  conditionSuccessText: []
+  conditionSuccessText:
+  - 'The demons banished, chains fall away, a freed soul emerges from torment''s
+    grasp, gratitude kindled. In heartfelt thanks, a large ruby, a gleaming token
+    of appreciation, bestowed upon the liberator.     '
   effectSos:
   - {fileID: 11400000, guid: c03d74b4f7f912949bbba0ebf5edbeb4, type: 2}

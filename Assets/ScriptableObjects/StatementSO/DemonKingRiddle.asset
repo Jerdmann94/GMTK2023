@@ -14,7 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   conditionSos:
   - {fileID: 11400000, guid: 73200cc567ac7614d8b80f488055f504, type: 2}
-  conditionFailText: []
-  conditionSuccessText: []
+  conditionFailText:
+  - 'Disappointment clouds the air as a lackluster riddle escapes, the Imp King''s
+    countenance darkens, a wave of his hand dissolving the feast, leaving naught
+    but ethereal mist in its wake.     '
+  conditionSuccessText:
+  - 'Words weave a clever riddle, the Imp King delighted, mischief fading, bestowing
+    his regal crown as a token of approval, a reward for the wit that unravelled
+    his enigmatic realm.     '
   effectSos:
   - {fileID: 11400000, guid: c03d74b4f7f912949bbba0ebf5edbeb4, type: 2}

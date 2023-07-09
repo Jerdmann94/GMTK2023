@@ -14,8 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   conditionSos:
   - {fileID: 11400000, guid: 30a9b5e1c532e7d479c713cba5a3e25b, type: 2}
-  conditionFailText: []
-  conditionSuccessText: []
+  conditionFailText:
+  - 'With a piercing shriek, the crow-like demon launches its assault, but swift
+    reflexes deflect its beak. The creature recoils, wings beating frantically as
+    it retreats into the shadows, vanquished by a resolute defender.     '
+  conditionSuccessText:
+  - 'Flesh rends as the crow-like demon strikes, a razor beak cutting deep into weakened
+    defenses. Searing pain lances through the body. The demon, satiated, takes flight,
+    leaving scars as its haunting departure.     '
   effectSos:
-  - {fileID: 11400000, guid: a171d0118da00624883f4d5840da2fd1, type: 2}
   - {fileID: 11400000, guid: a171d0118da00624883f4d5840da2fd1, type: 2}

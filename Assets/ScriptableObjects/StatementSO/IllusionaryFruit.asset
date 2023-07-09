@@ -14,5 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   conditionSos:
   - {fileID: 11400000, guid: 278c158033be13147bfdcdf6eb4e98c1, type: 2}
+  conditionFailText:
+  - 'Illusion crumbles, teeth meet flesh, a cruel trick, as the luscious fruit dissolves,
+    revealing the agonizing taste of one''s own blood.     '
+  conditionSuccessText:
+  - 'With a flicker of insight, the illusion fades, sparing one the embarrassment
+    of sinking teeth into the illusory fruit''s empty embrace.     '
   effectSos:
   - {fileID: 11400000, guid: a171d0118da00624883f4d5840da2fd1, type: 2}

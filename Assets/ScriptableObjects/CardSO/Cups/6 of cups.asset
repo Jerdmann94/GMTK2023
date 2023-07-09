@@ -14,14 +14,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   statementSos:
   - {fileID: 11400000, guid: 2402247656caa2a4ea27889819569583, type: 2}
-  cardSelectText: cup 6
-  cardHoverText: 
+  cardSelectText: "Within the dungeon's depths, a remarkable sight unfolds\u2014a
+    bountiful orange orchard, its vibrant fruits gleaming, a tantalizing oasis amidst
+    the grim shadows, offering a taste of earthly delight.     "
+  cardHoverText: The room next door is eerily quiet...
   cardImage: {fileID: 21300000, guid: 37cceffbea9353d48b12cb8ca8f9d146, type: 3}
   invertedStatementSos:
   - {fileID: 11400000, guid: 5bd2ea58d2b7c3d48b3778ab89bce7b4, type: 2}
   - {fileID: 11400000, guid: 1806264dc1ea776439367bd2a3ecaf57, type: 2}
   - {fileID: 11400000, guid: f3628111509fb734d803692333e0bce8, type: 2}
-  invertedCardSelectText: 6
-  invertedCardHoverText: 
+  invertedCardSelectText: 'Astonishment turns to dread as the dungeon reveals an
+    enchanting orange orchard, guarded fiercely by a mad orangutan, its wild eyes
+    fixed upon you with a relentless approach.     '
+  invertedCardHoverText: Echoing, primal hoots resonate...
   normalRoomSprite: {fileID: 21300000, guid: c2c6a77d6275cee49ba8e3b8392647c2, type: 3}
   inverseRoomSprite: {fileID: 21300000, guid: c2c6a77d6275cee49ba8e3b8392647c2, type: 3}

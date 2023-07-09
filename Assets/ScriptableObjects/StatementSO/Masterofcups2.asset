@@ -15,6 +15,9 @@ MonoBehaviour:
   conditionSos:
   - {fileID: 11400000, guid: 6a0a8b27aedbc6e4cbadc252bc55cbdd, type: 2}
   conditionFailText: []
-  conditionSuccessText: []
+  conditionSuccessText:
+  - 'Sip of ambrosia, nimbleness awakens, agile grace imbued. Nourishment floods,
+    sating hunger''s pang. With each sip, a dancer''s finesse enchants, as vitality
+    and satisfaction intertwine in harmonious balance.     '
   effectSos:
   - {fileID: 11400000, guid: 7ef109de58a6e5046876f9b1604516fb, type: 2}

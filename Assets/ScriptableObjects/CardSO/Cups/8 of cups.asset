@@ -15,12 +15,16 @@ MonoBehaviour:
   statementSos:
   - {fileID: 11400000, guid: 445779b7fb3c75f44970780520034aeb, type: 2}
   - {fileID: 11400000, guid: dcaad701ceaaf6d4ab09cb3e98aeda12, type: 2}
-  cardSelectText: cup 8
-  cardHoverText: 
+  cardSelectText: 'A desolate dungeon room reveals a grand banquet table, now a feast
+    of decay, festering remnants of forgotten indulgence, a haunting testament to
+    feasts gone awry, lost in time''s cruel embrace.  '
+  cardHoverText: Stillness, putrid stench lingers...
   cardImage: {fileID: 21300000, guid: 53b5235f3eab4ab458a1fb80d2ac0f41, type: 3}
   invertedStatementSos:
   - {fileID: 11400000, guid: 0af4d6f2ab226574299ebdbc788ed96e, type: 2}
-  invertedCardSelectText: 8
-  invertedCardHoverText: 
+  invertedCardSelectText: 'A dungeon room unveils a lavish feast for imps, the Imp
+    King demanding a riddle''s decree, eyes gleaming with mischief and challenge,
+    awaiting the words that unlock the path to intrigue.     '
+  invertedCardHoverText: Raucous clamor, pungent odors mingle...
   normalRoomSprite: {fileID: 21300000, guid: 58594bdfe6f22734e8a91b75bd942154, type: 3}
   inverseRoomSprite: {fileID: 0}

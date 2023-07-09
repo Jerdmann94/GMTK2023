@@ -14,11 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   statementSos:
   - {fileID: 11400000, guid: 02f35490aec77a64f9a75278f4a4d9ad, type: 2}
-  cardSelectText: Selected the ace of cups
-  cardHoverText: 
+  cardSelectText: 'The dank chamber resonates with the melodic whispers of a playful
+    fountain, splashing and echoing amidst cryptic echoes.     '
+  cardHoverText: You hear the gentle lap of running water...
   cardImage: {fileID: 21300000, guid: 68664a83d0b168842ba455a761ecca24, type: 3}
   invertedStatementSos: []
-  invertedCardSelectText: 1
-  invertedCardHoverText: 
+  invertedCardSelectText: 'The dusty chamber exudes a mournful silence, as the desolate
+    fountain stands as a forgotten relic of bygone days.     '
+  invertedCardHoverText: The room next door is eerily quiet...
   normalRoomSprite: {fileID: 21300000, guid: dfc912f28ac4cb9479f2f4b9e0bd3b90, type: 3}
   inverseRoomSprite: {fileID: 21300000, guid: a427b6b8d67907543b10432f93d50c64, type: 3}

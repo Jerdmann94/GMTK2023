@@ -14,6 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   conditionSos:
   - {fileID: 11400000, guid: 7746e97ea5c95da438713c5eb5a986c7, type: 2}
+  conditionFailText:
+  - 'Alas. Frustration creeps as one''s meager purse falls short, denying access
+    to mystical brews that could change fate''s course.     '
+  conditionSuccessText:
+  - 'Coins slip away, lost in exchange, yet the potion''s potency, a balm to the
+    weary, soothes the soul''s longing for solace.     '
   effectSos:
   - {fileID: 11400000, guid: 7ef109de58a6e5046876f9b1604516fb, type: 2}
   - {fileID: 11400000, guid: 6f98de95a8ff22e45ad8d4da4afe0483, type: 2}

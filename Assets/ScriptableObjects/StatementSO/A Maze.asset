@@ -14,7 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   conditionSos:
   - {fileID: 11400000, guid: 278c158033be13147bfdcdf6eb4e98c1, type: 2}
-  conditionFailText: []
-  conditionSuccessText: []
+  conditionFailText:
+  - 'Through labyrinth''s twists, a keen eye deciphers hidden patterns, seizing the
+    essence of the enigma, guiding with calculated steps, a triumph of wit and intuition,
+    unraveling the maze''s riddle swiftly.     '
+  conditionSuccessText:
+  - 'Through labyrinthine corridors, rations diminish, desperation looms. Amidst
+    dwindling hope, a breakthrough emerges, unveiling the path to freedom as the
+    taste of salvation lingers on parched lips.     '
   effectSos:
   - {fileID: 11400000, guid: ac94e952591fbb64cae1f2c5d77d0171, type: 2}

@@ -13,9 +13,12 @@ MonoBehaviour:
   m_Name: KeeperRoyalSeal2
   m_EditorClassIdentifier: 
   conditionSos:
-  - {fileID: 11400000, guid: 894a7544cff38d74a897a6685c32104e, type: 2}
+  - {fileID: 11400000, guid: e94fedd30dc6cda46b800867e1a25b0d, type: 2}
   conditionFailText: []
-  conditionSuccessText: []
+  conditionSuccessText:
+  - 'Overjoyed, giant''s heart swells. Royal seal returned, a tear glistens. Gratitude
+    overflows, gold cascades, a heavy sack bestowed, a testament to a father''s love,
+    a reward for loyalty and reunion regained.     '
   effectSos:
   - {fileID: 11400000, guid: cba37215dcdc4d844a8d939aef4b510a, type: 2}
   - {fileID: 11400000, guid: c03d74b4f7f912949bbba0ebf5edbeb4, type: 2}

@@ -14,12 +14,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   statementSos:
   - {fileID: 11400000, guid: 003adddbc2e7b494da19d2d0750f6b28, type: 2}
-  cardSelectText: 4
-  cardHoverText: 
+  cardSelectText: 'At first, a modest bowl of fruit beckons, yet upon inspection,
+    the illusion shatters, revealing sparkling gems crafted to deceive.     '
+  cardHoverText: The room next door is eerily quiet...
   cardImage: {fileID: 21300000, guid: e9f6237bc1130074fa30eae6f5817e1d, type: 3}
   invertedStatementSos:
   - {fileID: 11400000, guid: fe668f588c3e08e4b961f7dacf7d7aa4, type: 2}
-  invertedCardSelectText: 4
-  invertedCardHoverText: 
+  invertedCardSelectText: 'A room reveals an array of tempting fruit, delectable
+    and enticing, yet an uncanny aura taints their perfection, evoking a sense of
+    unease.     '
+  invertedCardHoverText: The room next door is eerily quiet...
   normalRoomSprite: {fileID: 21300000, guid: 2173324bf8bd3c24cbb3c3a19c8fe7b6, type: 3}
   inverseRoomSprite: {fileID: 0}

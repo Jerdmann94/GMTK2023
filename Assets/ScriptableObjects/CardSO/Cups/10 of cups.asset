@@ -16,13 +16,19 @@ MonoBehaviour:
   - {fileID: 11400000, guid: c9744634256e21a4bb1b5c097aa38ee9, type: 2}
   - {fileID: 11400000, guid: f90ab1bd5daded243a06b7aea9eb256a, type: 2}
   - {fileID: 11400000, guid: 4ec511ec544b8334fa0995b6d61a16b7, type: 2}
-  cardSelectText: cup 10
-  cardHoverText: 
+  cardSelectText: 'Within the dungeon''s depths, a towering figure awaits, surrounded
+    by brimming goblets. Warmly inviting, he extends the choice, granting the chance
+    to partake from any chalice, in a toast to unknown fortunes.     '
+  cardHoverText: 'Boisterous laughter, clinking goblets resound.     '
   cardImage: {fileID: 21300000, guid: 7e7ecc24df40a67468256711eb5aafaa, type: 3}
   invertedStatementSos:
   - {fileID: 11400000, guid: 40a51d2295c054645ad87799754750e3, type: 2}
-  - {fileID: 11400000, guid: c926bcdf7b99bd642be61e4c831c0573, type: 2}
-  invertedCardSelectText: 10
-  invertedCardHoverText: 
+  - {fileID: 11400000, guid: 036c3325459d8da43aeea0a626588441, type: 2}
+  - {fileID: 11400000, guid: 913c8d32de5366249801afc3766f655e, type: 2}
+  - {fileID: 11400000, guid: 14b2f67b88c59a8418c0e3197b5c24c9, type: 2}
+  invertedCardSelectText: 'In the dungeon''s gloom, a disheveled giant sulks amidst
+    a chaos of toppled goblets and spilled wine, his slurred shouts filling the air
+    with drunken ire as you cautiously intrude upon his melancholic revelry.     '
+  invertedCardHoverText: Grumbling murmurs and howls...
   normalRoomSprite: {fileID: 0}
   inverseRoomSprite: {fileID: 0}
