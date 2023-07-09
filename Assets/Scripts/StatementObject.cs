@@ -1,6 +1,4 @@
-using System;
 using System.Collections.Generic;
-using UnityEngine;
 
 public class StatementObject
 {
@@ -20,54 +18,25 @@ public class StatementObject
         }
     }
 
-    public bool evaluate(PlayerData playerData)
+    //if all conditions passed ,do all effects
+    public bool doStatement(PlayerData playerData)
     {
         foreach (var condition in conditions)
         {
-            Debug.Log(condition.key);
-            var k = playerData.getKeyPropertyInfo(condition.key);
-            var keyValue = k.GetValue(playerData);
-            switch (condition.op)
+            if (!condition.evaluate(playerData))
             {
-                //uses key value
-                case ConditionOperator.GreaterThan:
-                    return parseToInt(keyValue) >= condition.value;
-
-                //uses key value
-                case ConditionOperator.LessThan:
-                    return parseToInt(keyValue) < condition.value;
-                    break;
-
-                //uses key value
-                case ConditionOperator.Equals:
-                    return parseToInt(keyValue) == condition.value;
-                    break;
-
-                //uses key
-                case ConditionOperator.HasItem:
-                    break;
-
-                //uses key
-                case ConditionOperator.NotHasItem:
-                    break;
-
-                //uses key value
-                case ConditionOperator.RollsAbove:
-                    break;
-
-                //uses key value
-                case ConditionOperator.RollsBelow:
-                    break;
-                default:
-                    throw new ArgumentOutOfRangeException();
+                return true;
             }
         }
 
-        return false;
-    }
+        foreach (var effect in effects)
+        {
+            if (!effect.resolve(playerData))
+            {
+                return false;
+            }
+        }
 
-    private int parseToInt(object o)
-    {
-        return int.Parse(o.ToString());
+        return true;
     }
 }

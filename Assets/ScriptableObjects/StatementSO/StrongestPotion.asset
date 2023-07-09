@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b81fc53a76d160c4daabb53da5c2eed0, type: 3}
+  m_Name: StrongestPotion
+  m_EditorClassIdentifier: 
+  conditionSos:
+  - {fileID: 11400000, guid: 7746e97ea5c95da438713c5eb5a986c7, type: 2}
+  effectSos:
+  - {fileID: 11400000, guid: 7ef109de58a6e5046876f9b1604516fb, type: 2}
+  - {fileID: 11400000, guid: 6f98de95a8ff22e45ad8d4da4afe0483, type: 2}
+  - {fileID: 11400000, guid: e36aa50b16787b64185b5175d8e1d6ca, type: 2}

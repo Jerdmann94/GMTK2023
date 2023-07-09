@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5628eaf73b6bb574594378f907081f73, type: 3}
+  m_Name: 8 of cups
+  m_EditorClassIdentifier: 
+  statementSos:
+  - {fileID: 11400000, guid: 445779b7fb3c75f44970780520034aeb, type: 2}
+  - {fileID: 11400000, guid: dcaad701ceaaf6d4ab09cb3e98aeda12, type: 2}
+  cardSelectText: cup 8
+  cardHoverText: 
+  cardImage: {fileID: 21300000, guid: 53b5235f3eab4ab458a1fb80d2ac0f41, type: 3}
+  invertedStatementSos:
+  - {fileID: 11400000, guid: 0af4d6f2ab226574299ebdbc788ed96e, type: 2}
+  invertedCardSelectText: 8
+  invertedCardHoverText: 
+  normalRoomSprite: {fileID: 21300000, guid: 58594bdfe6f22734e8a91b75bd942154, type: 3}
+  inverseRoomSprite: {fileID: 0}

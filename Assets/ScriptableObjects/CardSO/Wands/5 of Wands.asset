@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5628eaf73b6bb574594378f907081f73, type: 3}
+  m_Name: 5 of Wands
+  m_EditorClassIdentifier: 
+  statementSos:
+  - {fileID: 11400000, guid: 027bb82c18f7e0c4fbcdaf5ac7a74671, type: 2}
+  cardSelectText: 
+  cardHoverText: 
+  cardImage: {fileID: 21300000, guid: b5e5bdc4ae7835f40bd3279b30c80f9b, type: 3}
+  invertedStatementSos:
+  - {fileID: 11400000, guid: 68bb86b494e2851479af23200ebf88ba, type: 2}
+  - {fileID: 11400000, guid: 7e13f16ea8f263a47bdf9fb81c3448bd, type: 2}
+  - {fileID: 11400000, guid: 072043e681a002846ad2bff58cfc3f49, type: 2}
+  invertedCardSelectText: 
+  invertedCardHoverText: 
+  normalRoomSprite: {fileID: 0}
+  inverseRoomSprite: {fileID: 0}

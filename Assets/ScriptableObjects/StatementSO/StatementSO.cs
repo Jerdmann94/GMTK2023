@@ -5,5 +5,7 @@ using UnityEngine;
 public class StatementSO : ScriptableObject
 {
     public List<ConditionSO> conditionSos;
+    public List<string> conditionFailText;
+    public List<string> conditionSuccessText;
     public List<EffectSO> effectSos;
 }

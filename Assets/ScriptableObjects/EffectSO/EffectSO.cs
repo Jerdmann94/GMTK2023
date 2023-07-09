@@ -1,6 +1,5 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
+
 [CreateAssetMenu(fileName = "Data", menuName = "Card/EffectSO")]
 public class EffectSO : ScriptableObject
 {
@@ -11,10 +10,9 @@ public class EffectSO : ScriptableObject
 
 public enum EffectOperator
 {
-    IncreaseState,
-    ReduceState,
     IncreasePlayer,
     ReducePlayer,
     GiveItem,
-    UseItem
+    UseItem,
+    Exit,
 }
