@@ -6,13 +6,14 @@ public class PlayerData : MonoBehaviour
 {
     public GameManager gameManager;
 
+    public RoomObjectManager roomObjectManager;
+
     //for ui display
     public PlayerStatUIManager playerStatUIManager;
 
     //STATS
     [SerializeField] private int strength;
     [SerializeField] private int intelligence;
-
     [SerializeField] private int dexterity;
 
     //temp stats
@@ -56,7 +57,7 @@ public class PlayerData : MonoBehaviour
 
     public int Intelligence
     {
-        get => intelligence + intelligence;
+        get => intelligence + TempIntelligence;
         set
         {
             intelligence = value;
@@ -251,12 +252,30 @@ public class PlayerData : MonoBehaviour
             }
         };
         var s = Random.Range(0, 3);
+        if (s == 0)
+        {
+            Strength = 3;
+            Intelligence = 2;
+            Dexterity = 1;
+        }
 
-        Strength = stats[s, 0];
-        Intelligence = stats[s, 1];
-        Dexterity = stats[s, 2];
-        Debug.Log(" s0 " + stats[s, 0] + " s1 " +
-                  stats[s, 1] + " s2 " + stats[s, 2]);
+        if (s == 1)
+        {
+            Strength = 2;
+            Intelligence = 1;
+            Dexterity = 3;
+        }
+
+        if (s == 2)
+        {
+            Strength = 1;
+            Intelligence = 3;
+            Dexterity = 2;
+        }
+
+        roomObjectManager.spawnPlayerSprite(s);
+
+
         Debug.Log("s " + s + " dex " + Dexterity + " str " +
                   Strength + " int " + Intelligence);
         Debug.Log("s " + s + " tdex " + tempDexterity + " tstr " +

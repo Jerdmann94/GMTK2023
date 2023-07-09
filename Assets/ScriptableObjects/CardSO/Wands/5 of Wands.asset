@@ -27,5 +27,5 @@ MonoBehaviour:
     secrets beneath its murky surface. Amidst the current, a glimmer of gold beckons.
     Do you dare to brave the treacherous waters and retrieve its tempting allure?     '
   invertedCardHoverText: You hear a gurgle in the depths...
-  normalRoomSprite: {fileID: 0}
+  normalRoomSprite: {fileID: 21300000, guid: 5aaa47361e56ccf47a0cd392664c2d75, type: 3}
   inverseRoomSprite: {fileID: 0}
