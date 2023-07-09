@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b81fc53a76d160c4daabb53da5c2eed0, type: 3}
+  m_Name: Maggots
+  m_EditorClassIdentifier: 
+  conditionSos: []
+  conditionFailText: []
+  conditionSuccessText: []
+  effectSos:
+  - {fileID: 11400000, guid: 9f49769eb6553cb4e962132ff38842bd, type: 2}

@@ -15,4 +15,5 @@ MonoBehaviour:
   conditionSos: []
   conditionFailText: []
   conditionSuccessText: []
-  effectSos: []
+  effectSos:
+  - {fileID: 11400000, guid: a171d0118da00624883f4d5840da2fd1, type: 2}

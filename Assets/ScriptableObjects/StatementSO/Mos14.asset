@@ -12,7 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b81fc53a76d160c4daabb53da5c2eed0, type: 3}
   m_Name: Mos14
   m_EditorClassIdentifier: 
-  conditionSos: []
+  conditionSos:
+  - {fileID: 11400000, guid: 564cf8cf18bafad4fb72ad30584992db, type: 2}
   conditionFailText: []
   conditionSuccessText: []
-  effectSos: []
+  effectSos:
+  - {fileID: 11400000, guid: ddb295c28c48d2d4c869b6e7c0a0a756, type: 2}
+  - {fileID: 11400000, guid: 6767e2ad362be4b4285b26e15e8de056, type: 2}

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b81fc53a76d160c4daabb53da5c2eed0, type: 3}
+  m_Name: SacPromo
+  m_EditorClassIdentifier: 
+  conditionSos:
+  - {fileID: 11400000, guid: fc9868536b0c9cf4192c04784dd0a30b, type: 2}
+  conditionFailText: []
+  conditionSuccessText: []
+  effectSos:
+  - {fileID: 11400000, guid: afef64ce6ce5b724aa780accbf425846, type: 2}
+  - {fileID: 11400000, guid: 1aba9c2cfd70527489d50908b380194e, type: 2}
+  - {fileID: 11400000, guid: cba37215dcdc4d844a8d939aef4b510a, type: 2}

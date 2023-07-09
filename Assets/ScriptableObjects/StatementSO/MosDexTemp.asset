@@ -12,7 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b81fc53a76d160c4daabb53da5c2eed0, type: 3}
   m_Name: MosDexTemp
   m_EditorClassIdentifier: 
-  conditionSos: []
+  conditionSos:
+  - {fileID: 11400000, guid: 6a0a8b27aedbc6e4cbadc252bc55cbdd, type: 2}
   conditionFailText: []
   conditionSuccessText: []
-  effectSos: []
+  effectSos:
+  - {fileID: 11400000, guid: f5a01e97aded7c349b12a00237331b2e, type: 2}
