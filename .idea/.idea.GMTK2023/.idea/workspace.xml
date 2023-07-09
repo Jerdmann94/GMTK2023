@@ -4,7 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e5cadc4-2305-4b0b-85d2-24c4c74e251e" name="Changes" comment="" />
+    <list default="true" id="6e5cadc4-2305-4b0b-85d2-24c4c74e251e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Coins/1 of Coins.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Coins/1 of Coins.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Coins/2 of Coins.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Coins/2 of Coins.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Coins/3 of Coins.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Coins/3 of Coins.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Coins/4 of Coins.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Coins/4 of Coins.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Coins/5 of Coins.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Coins/5 of Coins.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Coins/6 of Coins.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Coins/6 of Coins.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Coins/7 of Coins.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Coins/7 of Coins.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Coins/8 of Coins.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Coins/8 of Coins.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Swords/1 of Swords.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Swords/1 of Swords.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Swords/2 of Swords.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Swords/2 of Swords.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Swords/3 of Swords.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Swords/3 of Swords.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Swords/5 of Swords.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Swords/5 of Swords.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/BeggarGold.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/BeggarGold.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/BeggarMana.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/BeggarMana.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/CoinHole.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/CoinHole.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/MoneySanctuary.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/MoneySanctuary.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/MoonInt.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/MoonInt.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/MoonLaser.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/MoonLaser.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/SerpentAttack.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/SerpentAttack.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/rumplestilskin.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/rumplestilskin.asset" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

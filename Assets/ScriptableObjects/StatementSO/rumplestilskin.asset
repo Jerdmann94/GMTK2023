@@ -12,10 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b81fc53a76d160c4daabb53da5c2eed0, type: 3}
   m_Name: rumplestilskin
   m_EditorClassIdentifier: 
-  conditionSos:
-  - {fileID: 11400000, guid: 9f5ab0b131aeadb4090e2e13cefe3b27, type: 2}
+  conditionSos: []
   conditionFailText: []
-  conditionSuccessText: []
+  conditionSuccessText:
+  - 'You dare to sever a length of the golden thread, but it resists, pricking your
+    finger. A single drop of blood stains the spool, a reminder of sacrifice amidst
+    the shimmering enchantment.     '
   effectSos:
   - {fileID: 11400000, guid: a171d0118da00624883f4d5840da2fd1, type: 2}
   - {fileID: 11400000, guid: c03d74b4f7f912949bbba0ebf5edbeb4, type: 2}

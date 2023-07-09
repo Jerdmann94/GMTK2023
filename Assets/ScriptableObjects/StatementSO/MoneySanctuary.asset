@@ -15,7 +15,10 @@ MonoBehaviour:
   conditionSos:
   - {fileID: 11400000, guid: 7746e97ea5c95da438713c5eb5a986c7, type: 2}
   conditionFailText: []
-  conditionSuccessText: []
+  conditionSuccessText:
+  - 'Delving into your purse, you offer a generous sum of coins to the holy statue.
+    In response, the warm light of healing embraces you, yet its potency feels somewhat
+    diminished by the transactional nature of the exchange.     '
   effectSos:
   - {fileID: 11400000, guid: e36aa50b16787b64185b5175d8e1d6ca, type: 2}
   - {fileID: 11400000, guid: 7be0264b8b0bc6e4a987987dda5c3973, type: 2}

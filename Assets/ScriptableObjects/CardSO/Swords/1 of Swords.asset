@@ -14,12 +14,17 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   statementSos:
   - {fileID: 11400000, guid: f7c8145bb9c535e42abbb2ac02b03488, type: 2}
-  cardSelectText: 
-  cardHoverText: 
+  cardSelectText: 'Upon entering the dungeon room, you encounter the grisly sight
+    of a bisected corpse, its upper half still clutching a sword. Intrigued, you
+    seize the weapon, contemplating its potential usefulness in the treacherous depths.     '
+  cardHoverText: The room next door is eerily quiet...
   cardImage: {fileID: 21300000, guid: b94dd75d1c8d8d3409aef5796b1b9956, type: 3}
   invertedStatementSos:
   - {fileID: 11400000, guid: 4c8f57e3b6703b047aa803f4d1e8f2fe, type: 2}
-  invertedCardSelectText: 
-  invertedCardHoverText: 
+  invertedCardSelectText: "As you enter the dungeon room, a macabre sight unfolds\u2014a
+    leg half of a bisected corpse with winged boots adorning its feet. Removing them,
+    you don the magical footwear, envisioning their potential utility in your perilous
+    journey.     "
+  invertedCardHoverText: The room next door is eerily quiet...
   normalRoomSprite: {fileID: 0}
   inverseRoomSprite: {fileID: 0}

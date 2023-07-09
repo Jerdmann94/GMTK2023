@@ -14,12 +14,17 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   statementSos:
   - {fileID: 11400000, guid: 882085efb10a1af42ac67892b1a87d69, type: 2}
-  cardSelectText: 
-  cardHoverText: 
+  cardSelectText: 'Entering the dungeon room, you discover a holy statue emanating
+    warm light. Approaching it, the gentle glow envelops you, restoring your spirit
+    as you find solace and rejuvenation in the sacred presence it embodies.     '
+  cardHoverText: The room next door is eerily quiet...
   cardImage: {fileID: 21300000, guid: 98e808b36674fc34989418b5b8d26c71, type: 3}
   invertedStatementSos:
   - {fileID: 11400000, guid: 57bc9a993d4c8bf4a9ce740128548507, type: 2}
-  invertedCardSelectText: 
-  invertedCardHoverText: 
+  invertedCardSelectText: 'Within the dungeon room, a holy statue stands with an
+    extinguished light, an alms basket nearby. Sensing its requirement for an offering,
+    you understand that its aid and blessings will be granted once proper tribute
+    is bestowed.     '
+  invertedCardHoverText: The room next door is eerily quiet...
   normalRoomSprite: {fileID: 0}
   inverseRoomSprite: {fileID: 0}
