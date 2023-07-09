@@ -2,7 +2,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using UnityEngine;
-using UnityEngine.UI;
 
 public class CardManager : MonoBehaviour
 {
@@ -61,10 +60,9 @@ public class CardManager : MonoBehaviour
         ToolTipManager.Hide();
         foreach (var handScript in handUi)
         {
-            handScript.GetComponent<Button>().interactable = false;
+            handScript.gameObject.SetActive(false);
         }
 
-        playerData.Food--;
 
         if (_hand[i].name == "Relic")
         {
@@ -106,6 +104,8 @@ public class CardManager : MonoBehaviour
         {
             roomObjectManager.spawnRoomSprite(_hand[i].normalRoomSprite != null ? _hand[i].normalRoomSprite : null);
             chatManager.makeChatMessage(_hand[i].chosenText);
+            await Task.Delay(2000);
+            Debug.Log("Did delay 1");
             foreach (var statementObject in _hand[i].statementObjects)
             {
                 var result = await statementObject.doStatement(playerData, chatManager);
@@ -124,6 +124,8 @@ public class CardManager : MonoBehaviour
             return;
         }
 
+        playerData.Food--;
+
         _chosenCards.Add(_hand[i]);
         _hand.RemoveAt(i);
         foreach (var card in _hand)
@@ -136,7 +138,7 @@ public class CardManager : MonoBehaviour
         drawHand();
         foreach (var handScript in handUi)
         {
-            handScript.GetComponent<Button>().interactable = true;
+            handScript.gameObject.SetActive(true);
         }
     }
 
@@ -168,7 +170,7 @@ public class CardManager : MonoBehaviour
         drawHand();
         foreach (var handScript in handUi)
         {
-            handScript.GetComponent<Button>().interactable = true;
+            handScript.gameObject.SetActive(true);
         }
     }
 
@@ -177,7 +179,7 @@ public class CardManager : MonoBehaviour
         chatManager.ClearMessages();
         foreach (var handScript in handUi)
         {
-            handScript.GetComponent<Button>().interactable = true;
+            handScript.gameObject.SetActive(true);
         }
 
         _playedCounter = 0;

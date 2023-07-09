@@ -219,7 +219,7 @@ public class PlayerData : MonoBehaviour
         mana = 0;
         life = 6;
         gold = 0;
-        food = 12;
+        food = 3;
         royalSeal1 = false;
         royalSeal2 = false;
         royalSeal3 = false;

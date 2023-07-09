@@ -13,10 +13,6 @@ public class GameManager : MonoBehaviour
     public PlayerData playerData;
 
     // Start is called before the first frame update
-    void Start()
-    {
-        cardManager.initDeck();
-    }
 
     public void gameLost()
     {
@@ -30,6 +26,17 @@ public class GameManager : MonoBehaviour
 
     public void startGame()
     {
+        Debug.Log("start game");
+        playerData.initStats();
+        cardManager.initDeck();
+        startScreenObj.SetActive(false);
+        gameWinObj.SetActive(false);
+        gameLostObj.SetActive(false);
+    }
+
+    public void restartGame()
+    {
+        Debug.Log("start game");
         playerData.initStats();
         cardManager.initDeck();
         startScreenObj.SetActive(false);

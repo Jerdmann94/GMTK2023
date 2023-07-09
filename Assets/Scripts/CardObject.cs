@@ -20,6 +20,7 @@ public class CardObject
 
     public CardObject(CardSO cardSo)
     {
+        Debug.Log(cardSo.name);
         name = cardSo.name;
         foreach (var statementSo in cardSo.statementSos)
         {

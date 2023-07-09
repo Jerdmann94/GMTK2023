@@ -33,10 +33,16 @@ public class ChatManager : MonoBehaviour
 
     public void ClearMessages()
     {
-        while (messages.Count > 1)
+        var i = 0;
+        while (chatPanel.childCount > 1)
         {
-            Destroy(messages[0].textObject.gameObject);
+            i++;
+            Destroy(chatPanel.GetChild(0).gameObject);
+            if (i > 30)
+                break;
         }
+
+        messages.Clear();
     }
 }
 
