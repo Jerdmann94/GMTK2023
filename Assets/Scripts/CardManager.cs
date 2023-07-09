@@ -176,6 +176,7 @@ public class CardManager : MonoBehaviour
 
     public void initDeck()
     {
+        roomObjectManager.spawnRoomSprite(null);
         chatManager.ClearMessages();
         foreach (var handScript in handUi)
         {
