@@ -17,13 +17,17 @@ MonoBehaviour:
   - {fileID: 11400000, guid: ec6f6b7c119fb6144a71b77e4729005b, type: 2}
   - {fileID: 11400000, guid: 7a827f70f867f58489d6dc8b7546141f, type: 2}
   - {fileID: 11400000, guid: 7a827f70f867f58489d6dc8b7546141f, type: 2}
-  cardSelectText: 
-  cardHoverText: 
+  cardSelectText: 'You step into the dungeon''s chamber, confronted by a tumultuous
+    clash between two armies. A choice looms: navigate the treacherous edges or brave
+    the chaos, running through the fray with daring abandon.     '
+  cardHoverText: The clash of steel on steel...
   cardImage: {fileID: 21300000, guid: 469b642ea56805d489626696c1c5d076, type: 3}
   invertedStatementSos:
   - {fileID: 11400000, guid: 3a1ea54fd180b724c85690401cbd4540, type: 2}
   - {fileID: 11400000, guid: 09ce9cbe4cb813a48b0f51433ab85ee1, type: 2}
-  invertedCardSelectText: 
-  invertedCardHoverText: 
+  invertedCardSelectText: 'You venture into the aftermath of a savage battle within
+    the dungeon''s chamber. Mangy dogs scavenge amidst the corpses and debris, their
+    snarls of possession growing fierce as you intrude upon their spoils.     '
+  invertedCardHoverText: Soft snarls and whimpers...
   normalRoomSprite: {fileID: 21300000, guid: bf227b5c34908f147b6b3d12445b06f6, type: 3}
   inverseRoomSprite: {fileID: 0}

@@ -16,13 +16,19 @@ MonoBehaviour:
   - {fileID: 11400000, guid: ddb2997d2ae2661488b3bb124b42c06d, type: 2}
   - {fileID: 11400000, guid: 2635e4e102197e74a8a2ea1f6ad14458, type: 2}
   - {fileID: 11400000, guid: 5524ef7307b457445935933be5d9a037, type: 2}
-  cardSelectText: 
-  cardHoverText: 
+  cardSelectText: 'You step into the dungeon''s depths, stumbling upon a gathering
+    of goblin farmers tending to mushroom crops. Their wary gazes fix upon you, suspicion
+    etched upon their wrinkled faces, unsure of your intentions in their subterranean
+    domain.     '
+  cardHoverText: The chattering of grimy little voices...
   cardImage: {fileID: 21300000, guid: 0453646c4e7493540b57e829032514ee, type: 3}
   invertedStatementSos:
   - {fileID: 11400000, guid: 95b73a3c7b058cf45b8a5259638669d8, type: 2}
   - {fileID: 11400000, guid: b09759b35a8e1984a9d917bd00ce7980, type: 2}
-  invertedCardSelectText: 
-  invertedCardHoverText: 
+  invertedCardSelectText: 'You enter the dungeon''s chamber, confronting a ghastly
+    scene. Fungoid slavers parade, accompanied by shackled goblin slaves through
+    a choking spore haze. Gasping for breath, the suffocating air weighs upon your
+    lungs.     '
+  invertedCardHoverText: The chattering of grimy little voices...
   normalRoomSprite: {fileID: 21300000, guid: c8173102e0f748747b8015d3d765ffc7, type: 3}
   inverseRoomSprite: {fileID: 0}

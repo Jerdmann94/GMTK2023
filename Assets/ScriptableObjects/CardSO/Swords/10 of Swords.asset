@@ -15,8 +15,10 @@ MonoBehaviour:
   statementSos:
   - {fileID: 11400000, guid: 8f10bd08593ae1e489cdd51de97bdf1b, type: 2}
   - {fileID: 11400000, guid: 7a8340ff1e8c3f7409331eb709eec8cd, type: 2}
-  cardSelectText: 
-  cardHoverText: 
+  cardSelectText: 'You enter the dungeon''s chamber, beholding the sacred tomb of
+    an ancient hero adorned with cryptic inscriptions. Before his bier lies an ornate
+    chest, whispering of untold treasures and the secrets of forgotten eras.     '
+  cardHoverText: An aura of honor...
   cardImage: {fileID: 21300000, guid: 5c66c0450d3f7fc4dbd259d753785512, type: 3}
   invertedStatementSos:
   - {fileID: 11400000, guid: 5f5ceca9eba01ea44a628be71add9c10, type: 2}
@@ -28,7 +30,9 @@ MonoBehaviour:
   - {fileID: 11400000, guid: ee37f861f94f9c24da31c2b25581f5f3, type: 2}
   - {fileID: 11400000, guid: 224e25a93fda2f84dbc3b851a4dabf8f, type: 2}
   - {fileID: 11400000, guid: 577a511a7a697b640b445c23a1943b81, type: 2}
-  invertedCardSelectText: 
-  invertedCardHoverText: 
+  invertedCardSelectText: 'You venture into the dungeon''s chamber, facing the hallowed
+    tomb of an ancient hero. Upon your arrival, the tomb creaks open, and the hero
+    emerges, summoned from the grave, ready to meet your daunting challenge.     '
+  invertedCardHoverText: An aura of honor...
   normalRoomSprite: {fileID: 21300000, guid: 32391d2a95e64434a9630e7b30c20e46, type: 3}
   inverseRoomSprite: {fileID: 0}
