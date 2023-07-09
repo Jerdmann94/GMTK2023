@@ -27,5 +27,5 @@ MonoBehaviour:
     forms stir to life, grasping with bony limbs. Amidst the chaos, an alms cup,
     brimming with coins, tempts just beyond the threshold, a perilous prize to attain.     '
   invertedCardHoverText: The rattling of bones....
-  normalRoomSprite: {fileID: 0}
+  normalRoomSprite: {fileID: 21300000, guid: 7b858d7ca9323d1499755c22080112d3, type: 3}
   inverseRoomSprite: {fileID: 0}

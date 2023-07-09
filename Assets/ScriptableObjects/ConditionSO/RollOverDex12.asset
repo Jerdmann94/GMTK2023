@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9604613ac05fd0d46bb0606c4afeebe5, type: 3}
   m_Name: RollOverDex12
   m_EditorClassIdentifier: 
-  key: Intelligence
+  key: Dexterity
   value: 12
   op: 0

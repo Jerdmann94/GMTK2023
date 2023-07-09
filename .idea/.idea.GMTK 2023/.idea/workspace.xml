@@ -4,19 +4,46 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2618cb58-533d-4ef1-8b5d-a1e5602ad518" name="Changes" comment="Swords">
+    <list default="true" id="2618cb58-533d-4ef1-8b5d-a1e5602ad518" name="Changes" comment="pushing assets">
+      <change afterPath="$PROJECT_DIR$/Assets/PressStart2P-Regular SDF.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PressStart2P-Regular SDF.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PressStart2P-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PressStart2P-Regular.ttf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Main_Chara_brawler.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Main_Chara_brawler.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Main_Chara_swordsman.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Main_Chara_swordsman.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Main_Chara_wizard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Main_Chara_wizard.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Splash-super_cool.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Splash-super_cool.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/WandSprites/Wands_Ten.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/WandSprites/Wands_Ten.png.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.GMTK 2023/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GMTK 2023/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Swords/10 of Swords.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Swords/10 of Swords.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/ConditionSO/RollOverStr14.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/ConditionSO/RollOverStr14.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/EffectSO/Gain1Goblin.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/EffectSO/Gain1Goblin.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/Mos10.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/Mos10.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/Mos12.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/Mos12.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/Mos14.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/Mos14.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/MosDamage.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/MosDamage.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/MosDexTemp.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/MosDexTemp.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/MosFinal.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/MosFinal.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/MosStr18.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/MosStr18.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Scene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Coins/1 of Coins.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Coins/1 of Coins.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Coins/10 of Coins.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Coins/10 of Coins.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Coins/2 of Coins.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Coins/2 of Coins.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Coins/3 of Coins.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Coins/3 of Coins.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Coins/4 of Coins.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Coins/4 of Coins.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Coins/5 of Coins.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Coins/5 of Coins.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Coins/6 of Coins.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Coins/6 of Coins.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Coins/7 of Coins.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Coins/7 of Coins.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Coins/8 of Coins.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Coins/8 of Coins.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Coins/9 of Coins.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Coins/9 of Coins.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Wands/1 of Wands.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Wands/1 of Wands.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Wands/10 of Wands.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Wands/10 of Wands.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Wands/2 of Wands.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Wands/2 of Wands.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Wands/3 of Wands.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Wands/3 of Wands.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Wands/4 of Wands.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Wands/4 of Wands.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Wands/5 of Wands.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Wands/5 of Wands.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Wands/6 of Wands.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Wands/6 of Wands.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Wands/7 of Wands.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Wands/7 of Wands.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Wands/8 of Wands.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Wands/8 of Wands.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Wands/9 of Wands.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Wands/9 of Wands.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerData.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/RoomObjectManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/RoomObjectManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +52,10 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/../AppData/Local/JetBrains/Shared/vAny/DecompilerCache/decompiler/a1efe86478034c12aa24d00c7dc715fe15a000/81/59358e77/GameObject.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/erdma/GMTK 2023/Assets/ScriptableObjects/CardSO/Coins/1 of Coins.asset" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/erdma/GMTK 2023/Assets/ScriptableObjects/CardSO/Swords/1 of Swords.asset" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/erdma/GMTK 2023/Assets/ScriptableObjects/CardSO/Wands/1 of Wands.asset" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/erdma/GMTK 2023/Assets/ScriptableObjects/CardSO/Wands/1 of Wands.asset" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ScriptableObjects/ConditionSO/ConditionSO.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="mock://C:/Users/erdma/GMTK 2023/Assets/Scripts/CardManager.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CardObject.cs" root0="FORCE_HIGHLIGHTING" />
@@ -105,7 +136,7 @@
       <workItem from="1688679612641" duration="276000" />
       <workItem from="1688735715964" duration="180000" />
       <workItem from="1688763298619" duration="15007000" />
-      <workItem from="1688816574239" duration="35681000" />
+      <workItem from="1688816574239" duration="47857000" />
     </task>
     <task id="LOCAL-00001" summary="Init">
       <created>1688735857323</created>
@@ -198,7 +229,28 @@
       <option name="project" value="LOCAL" />
       <updated>1688881914865</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Coins">
+      <created>1688884645280</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1688884645280</updated>
+    </task>
+    <task id="LOCAL-00015" summary="buncha assests">
+      <created>1688916199579</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1688916199579</updated>
+    </task>
+    <task id="LOCAL-00016" summary="repush">
+      <created>1688916244306</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1688916244306</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -227,13 +279,16 @@
     <MESSAGE value="no metas" />
     <MESSAGE value="adding gitignore" />
     <MESSAGE value="meta files" />
-    <MESSAGE value="repush" />
     <MESSAGE value="sat morning" />
     <MESSAGE value="working on evaluate" />
     <MESSAGE value="pushing after excel nonsense" />
     <MESSAGE value="wands 4" />
     <MESSAGE value="Swords" />
-    <option name="LAST_COMMIT_MESSAGE" value="Swords" />
+    <MESSAGE value="Coins" />
+    <MESSAGE value="buncha assests" />
+    <MESSAGE value="repush" />
+    <MESSAGE value="pushing assets" />
+    <option name="LAST_COMMIT_MESSAGE" value="pushing assets" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>

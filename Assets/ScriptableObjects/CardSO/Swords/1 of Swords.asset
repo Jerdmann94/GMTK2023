@@ -26,5 +26,5 @@ MonoBehaviour:
     you don the magical footwear, envisioning their potential utility in your perilous
     journey.     "
   invertedCardHoverText: The room next door is eerily quiet...
-  normalRoomSprite: {fileID: 0}
-  inverseRoomSprite: {fileID: 0}
+  normalRoomSprite: {fileID: 21300000, guid: cea66c91a64b99e4bb7e27755785041b, type: 3}
+  inverseRoomSprite: {fileID: 21300000, guid: f5520821d36c61b46b2d7f58e066cbfb, type: 3}

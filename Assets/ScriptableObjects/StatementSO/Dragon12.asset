@@ -13,7 +13,9 @@ MonoBehaviour:
   m_Name: Dragon12
   m_EditorClassIdentifier: 
   conditionSos:
-  - {fileID: 0}
+  - {fileID: 11400000, guid: 90013e33e1e1c1c4892dd63b9e862357, type: 2}
   conditionFailText: []
   conditionSuccessText: []
-  effectSos: []
+  effectSos:
+  - {fileID: 11400000, guid: ca6ed7edcb1491b4c83f1276de9243f1, type: 2}
+  - {fileID: 11400000, guid: 6767e2ad362be4b4285b26e15e8de056, type: 2}

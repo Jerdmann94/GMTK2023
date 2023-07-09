@@ -25,5 +25,5 @@ MonoBehaviour:
     your eye. A sense of luck fills your being, prompting you to seize the opportunity,
     swiftly pocketing the coin with hopeful anticipation.     '
   invertedCardHoverText: 
-  normalRoomSprite: {fileID: 0}
+  normalRoomSprite: {fileID: 21300000, guid: afccf40f96d121b448dfa5d5d66209e0, type: 3}
   inverseRoomSprite: {fileID: 0}

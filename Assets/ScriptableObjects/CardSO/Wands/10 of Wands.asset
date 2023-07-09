@@ -35,5 +35,5 @@ MonoBehaviour:
     dark intentions coursing through his fingertips, poised to unleash their malevolence
     upon you.     '
   invertedCardHoverText: The sizzle of necrotic energy...
-  normalRoomSprite: {fileID: 0}
+  normalRoomSprite: {fileID: 21300000, guid: 5c1bf87b16d12af4a868ac953f353167, type: 3}
   inverseRoomSprite: {fileID: 0}

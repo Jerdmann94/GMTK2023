@@ -29,5 +29,5 @@ MonoBehaviour:
     torchlight, a formidable wooden cudgel lay discarded, its gnarled surface hinting
     at countless tales of conquest and retribution.     '
   invertedCardHoverText: The room next door is eerily quiet...
-  normalRoomSprite: {fileID: 0}
+  normalRoomSprite: {fileID: 21300000, guid: ce99aaa0d6bde8e44826aca31094691d, type: 3}
   inverseRoomSprite: {fileID: 0}

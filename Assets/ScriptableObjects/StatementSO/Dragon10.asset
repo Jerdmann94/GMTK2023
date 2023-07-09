@@ -12,7 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b81fc53a76d160c4daabb53da5c2eed0, type: 3}
   m_Name: Dragon10
   m_EditorClassIdentifier: 
-  conditionSos: []
+  conditionSos:
+  - {fileID: 11400000, guid: 6a0a8b27aedbc6e4cbadc252bc55cbdd, type: 2}
   conditionFailText: []
   conditionSuccessText: []
-  effectSos: []
+  effectSos:
+  - {fileID: 11400000, guid: cba37215dcdc4d844a8d939aef4b510a, type: 2}
+  - {fileID: 11400000, guid: 6767e2ad362be4b4285b26e15e8de056, type: 2}

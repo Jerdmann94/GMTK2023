@@ -26,5 +26,5 @@ MonoBehaviour:
     upon you, its eyes tracking your every move. An unsettling sensation grips you,
     your connection to reality faltering under its unrelenting and penetrating gaze.     '
   invertedCardHoverText: The room next door is eerily quiet...
-  normalRoomSprite: {fileID: 0}
+  normalRoomSprite: {fileID: 21300000, guid: 8bc2fa9d4ef43c84486ba3d324cdcfce, type: 3}
   inverseRoomSprite: {fileID: 0}

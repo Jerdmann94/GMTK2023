@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b657ae6d14d40a044881d91d1432ee23, type: 3}
   m_Name: Lose1Mana
   m_EditorClassIdentifier: 
-  op: 0
-  key: 
-  value: 0
+  op: 1
+  key: Mana
+  value: 1
