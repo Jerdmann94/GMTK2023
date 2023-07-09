@@ -14,13 +14,17 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   statementSos:
   - {fileID: 11400000, guid: dc88bf73f29912c40b5f87b22599a709, type: 2}
-  cardSelectText: 
-  cardHoverText: 
+  cardSelectText: "In the dungeon's dim expanse, amidst scattered timber, a serendipitous
+    find emerged\u2014an unassuming long pole, hidden among discarded scraps. Intuition
+    whispered of its latent potential, urging me to claim it as my own.     "
+  cardHoverText: The room next door is eerily quiet...
   cardImage: {fileID: 21300000, guid: 38aeb4ab162654f42b60ff18dfc3f57e, type: 3}
   invertedStatementSos:
   - {fileID: 11400000, guid: 72c106d2a3e9dfe458948d92146917e7, type: 2}
   - {fileID: 11400000, guid: 649c9c7440bf7074c9bea291b19a8bdb, type: 2}
-  invertedCardSelectText: 
-  invertedCardHoverText: 
+  invertedCardSelectText: 'Navigating the dungeon''s chamber, a chaotic mosaic of
+    scrap wood sprawled across the floor. With cautious steps, I wove my way, each
+    plank a precarious foothold, inching towards unseen treasures or lurking perils.     '
+  invertedCardHoverText: The room next door is eerily quiet...
   normalRoomSprite: {fileID: 0}
   inverseRoomSprite: {fileID: 0}

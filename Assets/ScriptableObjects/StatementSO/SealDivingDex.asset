@@ -14,7 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   conditionSos:
   - {fileID: 11400000, guid: 9f5ab0b131aeadb4090e2e13cefe3b27, type: 2}
-  conditionFailText: []
-  conditionSuccessText: []
+  conditionFailText:
+  - 'Grasping the golden seal from the riverbed, you commence the arduous swim back.
+    The current tugs, desperate to wrest it away, yet with dexterous resolve, you
+    hold on, refusing to yield until reaching the safety of the shore.  '
+  conditionSuccessText:
+  - 'Seizing the golden seal from the riverbed, you commence the swim back. The current
+    challenges your grip, and the seal slips momentarily, forcing a desperate retrieval.
+    In the struggle, a collision with a stone leaves you reeling, pain mingling with
+    triumph.     '
   effectSos:
   - {fileID: 11400000, guid: a171d0118da00624883f4d5840da2fd1, type: 2}

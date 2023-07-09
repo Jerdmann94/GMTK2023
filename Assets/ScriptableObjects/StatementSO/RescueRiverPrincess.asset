@@ -14,7 +14,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   conditionSos:
   - {fileID: 11400000, guid: 91b9a541370943b46a33aaba06dee558, type: 2}
-  conditionFailText: []
-  conditionSuccessText: []
+  conditionFailText:
+  - 'Frantically rummaging through your pack, desperation fuels your search for rescue
+    tools. Alas, time betrays you. As you raise your gaze, the canoe vanishes around
+    the bend, the princess''s cries fading into the distance, lost to the depths
+    of the dungeon''s embrace.     '
+  conditionSuccessText:
+  - 'Quick thinking takes hold as you hurl a rope from your pack, entwining it around
+    the careening canoe''s horn. With a determined pull, you guide it safely to shore.
+    The grateful princess presents her royal seal in gratitude but declines your
+    offer of further escort. Resolute, you move onward, leaving her behind.     '
   effectSos:
   - {fileID: 11400000, guid: e9aeffa92a992d0419491e6fc447a4c8, type: 2}

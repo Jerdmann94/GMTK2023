@@ -14,6 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   conditionSos: []
   conditionFailText: []
-  conditionSuccessText: []
+  conditionSuccessText:
+  - Grasping their shimmering allure, you deftly pocket the precious bounty, a secret
+    treasure of untold worth.
   effectSos:
   - {fileID: 11400000, guid: befa6df32de6ed54c8a8be0501297d5d, type: 2}

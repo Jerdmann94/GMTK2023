@@ -15,6 +15,9 @@ MonoBehaviour:
   conditionSos:
   - {fileID: 11400000, guid: 91b9a541370943b46a33aaba06dee558, type: 2}
   conditionFailText: []
-  conditionSuccessText: []
+  conditionSuccessText:
+  - "With the staff's weight in my hands, an audacious notion arose\u2014its length,
+    perfect for a bow. Imbued with untapped potential, a transition from stave to
+    string seemed a promising metamorphosis.     "
   effectSos:
   - {fileID: 11400000, guid: 5326acb153d0cae4ba8ccf7d11adf906, type: 2}

@@ -15,12 +15,18 @@ MonoBehaviour:
   statementSos:
   - {fileID: 11400000, guid: 8c4a10a41099291449dd1b60208cd797, type: 2}
   - {fileID: 11400000, guid: 4c6315fa28a6fc7408859157384872d4, type: 2}
-  cardSelectText: 
-  cardHoverText: 
+  cardSelectText: ' Entering the dungeon''s chamber, your gaze is drawn to a small
+    pool. A fisherman, net in hand, cradles an iridescent, bewitching fish. The fisherman
+    beckons you over, and as you meet the fish''s gaze, a profound, indescribable
+    sensation permeates your being.'
+  cardHoverText: You hear the curses of the common man and the splashing of water...
   cardImage: {fileID: 21300000, guid: 4e86044146f0c1a46ab711db4967f7da, type: 3}
   invertedStatementSos:
   - {fileID: 11400000, guid: 0866068dc8fb675468ef954891788103, type: 2}
-  invertedCardSelectText: 
-  invertedCardHoverText: 
+  invertedCardSelectText: 'Entering the dungeon room, you discover a tranquil glade,
+    adorned with a serene reflecting pool. Compelled, you approach, gazing into its
+    placid waters. Comforting thoughts envelop you, offering solace in the midst
+    of the dungeon''s desolation.     '
+  invertedCardHoverText: You hear lake water lapping at low tide...
   normalRoomSprite: {fileID: 0}
   inverseRoomSprite: {fileID: 0}

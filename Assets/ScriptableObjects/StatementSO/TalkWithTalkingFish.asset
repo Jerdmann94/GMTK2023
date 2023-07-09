@@ -14,7 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   conditionSos: []
   conditionFailText: []
-  conditionSuccessText: []
+  conditionSuccessText:
+  - Your gaze penetrates the fish's essence, perceiving its otherworldly intelligence
+    and enchanting aura. Disregarding the fisherman's protests, you release it. As
+    it gracefully departs, an opal fishscale drifts to the surface, resonating with
+    both wealth and sorcery. Holding it, you are consumed by its allure. The fisherman,
+    pouting and famished, demands your departure with resentment in his eyes.
   effectSos:
   - {fileID: 11400000, guid: 5326acb153d0cae4ba8ccf7d11adf906, type: 2}
   - {fileID: 11400000, guid: 679838f517d76a9479e583266fcfd36d, type: 2}

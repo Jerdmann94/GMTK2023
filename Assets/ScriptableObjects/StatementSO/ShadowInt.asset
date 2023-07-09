@@ -16,7 +16,11 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 771ef92a7699c414894e0353d4c74b6b, type: 2}
   - {fileID: 11400000, guid: 97ce5841b18d5e84d86c7cd0fd8c7b28, type: 2}
   conditionFailText: []
-  conditionSuccessText: []
+  conditionSuccessText:
+  - 'Engaged in a sorcerous clash with your own shadow, it deftly counters your incantations,
+    a master of the arcane. Your finesse falls short. Surprisingly, as it weaves
+    an ornate spell, you swing your staff like a mace, colliding with your face,
+    dispelling the shadow in a moment of unexpected triumph.     '
   effectSos:
   - {fileID: 11400000, guid: 5326acb153d0cae4ba8ccf7d11adf906, type: 2}
   - {fileID: 11400000, guid: 679838f517d76a9479e583266fcfd36d, type: 2}

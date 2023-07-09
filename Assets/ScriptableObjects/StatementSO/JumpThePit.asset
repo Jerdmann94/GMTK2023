@@ -13,8 +13,14 @@ MonoBehaviour:
   m_Name: JumpThePit
   m_EditorClassIdentifier: 
   conditionSos:
-  - {fileID: 11400000, guid: 97ce5841b18d5e84d86c7cd0fd8c7b28, type: 2}
-  conditionFailText: []
-  conditionSuccessText: []
+  - {fileID: 11400000, guid: 30a9b5e1c532e7d479c713cba5a3e25b, type: 2}
+  conditionFailText:
+  - "As the floor gave way to a chasm of spiked perdition beneath your feet, instinct
+    propelled you\u2014a daring leap defying peril's embrace, landing on solid ground,
+    victorious over the pit's insidious design.     "
+  conditionSuccessText:
+  - "The floor's betrayal birthed a sinister void of spikes. Alas, misfortune struck\u2014a
+    slip, a wretched meeting of flesh and steel. Bloodied, you endured, battle-hardened,
+    a testament to both your resilience and the dungeon's malice.     "
   effectSos:
   - {fileID: 11400000, guid: a171d0118da00624883f4d5840da2fd1, type: 2}

@@ -14,8 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   conditionSos:
   - {fileID: 11400000, guid: 278c158033be13147bfdcdf6eb4e98c1, type: 2}
-  conditionFailText: []
-  conditionSuccessText: []
+  conditionFailText:
+  - Summoning your prodigious will, you engage in a battle of minds with the psychic
+    toad, resisting its alluring hallucinations.
+  conditionSuccessText:
+  - Your feeble mind succumbs to the psychic toad's influence, compelled to depart
+    the room. The weight of its power erodes your resolve, leaving you with a lingering
+    sense of weakness.
   effectSos:
   - {fileID: 11400000, guid: 04ca17c833da4fe47985db6dba844831, type: 2}
   - {fileID: 11400000, guid: 3bf813b79908a2745b1dd9be71f86f0a, type: 2}

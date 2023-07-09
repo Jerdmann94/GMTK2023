@@ -15,7 +15,11 @@ MonoBehaviour:
   conditionSos:
   - {fileID: 11400000, guid: 73200cc567ac7614d8b80f488055f504, type: 2}
   conditionFailText: []
-  conditionSuccessText: []
+  conditionSuccessText:
+  - 'You offer a knowing quip as the alchemist''s gaze lingers, assessing your character.
+    A smile dances upon his lips, and he relaxes, sharing provisions. Engrossed in
+    discussion, his research unfolds, a tapestry of arcane secrets woven between
+    you.     '
   effectSos:
   - {fileID: 11400000, guid: 5326acb153d0cae4ba8ccf7d11adf906, type: 2}
   - {fileID: 11400000, guid: dd68cb88a6522c5428ea5fd09d94d87b, type: 2}

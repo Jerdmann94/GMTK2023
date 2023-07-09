@@ -14,6 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   conditionSos: []
   conditionFailText: []
-  conditionSuccessText: []
+  conditionSuccessText:
+  - Drinking the repulsive brown potion, its taste repels, yet a surge of enchantment
+    courses through you. Foul taste in your mouth, you quickly move on.
   effectSos:
   - {fileID: 11400000, guid: 5326acb153d0cae4ba8ccf7d11adf906, type: 2}

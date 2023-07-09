@@ -14,7 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   conditionSos:
   - {fileID: 11400000, guid: 73999feaff05677428d9e157cf55e3e0, type: 2}
-  conditionFailText: []
-  conditionSuccessText: []
+  conditionFailText:
+  - 'You attempt to force the lock with clumsy determination, lacking the finesse
+    required. Frustration swells as the door remains sealed. In resignation, you
+    abandon the futile endeavor, moving forward with a heavy heart.     '
+  conditionSuccessText:
+  - 'Your nimble fingers dance across the locks, defying their resistance. The heavy
+    door yields to your skill, revealing a glittering trove of gems and coins. Triumphantly,
+    you pocket the riches, a clandestine victor in the face of daunting obstacles.     '
   effectSos:
   - {fileID: 11400000, guid: cba37215dcdc4d844a8d939aef4b510a, type: 2}

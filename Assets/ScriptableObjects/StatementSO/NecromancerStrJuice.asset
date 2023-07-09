@@ -15,6 +15,10 @@ MonoBehaviour:
   conditionSos:
   - {fileID: 11400000, guid: 97ce5841b18d5e84d86c7cd0fd8c7b28, type: 2}
   conditionFailText: []
-  conditionSuccessText: []
+  conditionSuccessText:
+  - 'As the necromancer''s magic sizzles against you, undeterred, you seize his staff,
+    feeling its potent enchantment surge through your being. Empowered, your own
+    abilities rise to meet his dark arts, kindling a formidable clash of mystical
+    might.     '
   effectSos:
   - {fileID: 11400000, guid: a8c7dc3e0c0f77b4982b5dffb277b2a3, type: 2}

@@ -14,14 +14,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   statementSos:
   - {fileID: 11400000, guid: 027bb82c18f7e0c4fbcdaf5ac7a74671, type: 2}
-  cardSelectText: 
-  cardHoverText: 
+  cardSelectText: 'As you enter the dungeon room, your eyes meet a tumultuous underground
+    river. In a small canoe, a princess screams, swept away by its swift current,
+    her desperate cries echoing as she hurtles out of control.     '
+  cardHoverText: A faint cry above the gurgle in the depths...
   cardImage: {fileID: 21300000, guid: b5e5bdc4ae7835f40bd3279b30c80f9b, type: 3}
   invertedStatementSos:
-  - {fileID: 11400000, guid: 68bb86b494e2851479af23200ebf88ba, type: 2}
   - {fileID: 11400000, guid: 7e13f16ea8f263a47bdf9fb81c3448bd, type: 2}
+  - {fileID: 11400000, guid: 68bb86b494e2851479af23200ebf88ba, type: 2}
   - {fileID: 11400000, guid: 072043e681a002846ad2bff58cfc3f49, type: 2}
-  invertedCardSelectText: 
-  invertedCardHoverText: 
+  invertedCardSelectText: 'Entering the chamber, an underground river rushes, concealing
+    secrets beneath its murky surface. Amidst the current, a glimmer of gold beckons.
+    Do you dare to brave the treacherous waters and retrieve its tempting allure?     '
+  invertedCardHoverText: You hear a gurgle in the depths...
   normalRoomSprite: {fileID: 0}
   inverseRoomSprite: {fileID: 0}

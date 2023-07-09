@@ -4,49 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e5cadc4-2305-4b0b-85d2-24c4c74e251e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.GMTK2023/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GMTK2023/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Cups/1 of Cups.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Cups/1 of Cups.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Cups/10 of cups.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Cups/10 of cups.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Cups/2 of Cups.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Cups/2 of Cups.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Cups/3 of Cups.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Cups/3 of Cups.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Cups/4 of Cups.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Cups/4 of Cups.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Cups/5 of Cups.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Cups/5 of Cups.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Cups/6 of cups.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Cups/6 of cups.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Cups/7 of cups.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Cups/7 of cups.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Cups/8 of cups.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Cups/8 of cups.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Cups/9 of cups.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CardSO/Cups/9 of cups.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/A Maze.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/A Maze.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/Ape StrSkip.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/Ape StrSkip.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/Ape Throws.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/Ape Throws.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/Crystal Fruit.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/Crystal Fruit.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/Demon KeySkip.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/Demon KeySkip.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/DemonAcidSpit.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/DemonAcidSpit.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/DemonDiveBomb.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/DemonDiveBomb.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/DemonKingRiddle.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/DemonKingRiddle.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/DemonWine.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/DemonWine.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/DrinkWine.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/DrinkWine.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/FlyOverChasm.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/FlyOverChasm.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/Fountain.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/Fountain.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/GetDemonTreasure.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/GetDemonTreasure.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/GrossFood.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/GrossFood.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/IllusionaryFruit.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/IllusionaryFruit.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/JumpOverChasm.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/JumpOverChasm.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/JumpOverHell.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/JumpOverHell.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/KeeperRoyalSeal1.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/KeeperRoyalSeal1.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/KeeperRoyalSeal2.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/KeeperRoyalSeal2.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/KeeperRoyalSeal3.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/KeeperRoyalSeal3.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/KeeperShouting.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/KeeperShouting.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/Mangrove Trees.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/Mangrove Trees.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/MasterofCups1.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/MasterofCups1.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/MasterofCups3.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/MasterofCups3.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/Masterofcups2.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/Masterofcups2.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/MoldyFood.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/MoldyFood.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/Potionseller.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/Potionseller.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/Song of Terror.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/Song of Terror.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/StrongestPotion.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/StrongestPotion.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/hedgeMaze.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/StatementSO/hedgeMaze.asset" afterDir="false" />
-    </list>
+    <list default="true" id="6e5cadc4-2305-4b0b-85d2-24c4c74e251e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -140,7 +98,7 @@
       <workItem from="1688778495366" duration="155000" />
       <workItem from="1688778692349" duration="663000" />
       <workItem from="1688779378190" duration="5023000" />
-      <workItem from="1688823908010" duration="3170000" />
+      <workItem from="1688823908010" duration="4434000" />
     </task>
     <servers />
   </component>

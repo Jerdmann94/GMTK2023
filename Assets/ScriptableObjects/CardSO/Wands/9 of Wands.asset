@@ -15,12 +15,17 @@ MonoBehaviour:
   statementSos:
   - {fileID: 11400000, guid: ea2ce47ed932072439cabe11f8c976d1, type: 2}
   - {fileID: 11400000, guid: eb91956723fc4934cb880fc11e000b7f, type: 2}
-  cardSelectText: 
-  cardHoverText: 
+  cardSelectText: 'Upon entering the dungeon room, your eyes fixate on a colossal
+    glass bottle brimming with a mysterious brown potion. Within, a giant toad, trapped
+    and immersed, wriggles and swims, a captive in its alchemical prison. Whatever
+    this potion is, it sure looks tasty.    '
+  cardHoverText: Deep guttural croaking....
   cardImage: {fileID: 21300000, guid: bb2219583a4cd9648a47b892a1c0ccd0, type: 3}
   invertedStatementSos:
   - {fileID: 11400000, guid: e893015c1ed2a5c44a7f94078dfe6a02, type: 2}
-  invertedCardSelectText: 
-  invertedCardHoverText: 
+  invertedCardSelectText: 'Entering the dungeon room, a colossal psychedelic toad
+    perches atop shattered glass, its psychic emanations reaching out, warping your
+    mind. Its call lures you deeper, a surreal dance between fascination and madness.     '
+  invertedCardHoverText: Deep guttural croaking....
   normalRoomSprite: {fileID: 0}
   inverseRoomSprite: {fileID: 0}

@@ -13,8 +13,16 @@ MonoBehaviour:
   m_Name: GuardRiddleDamage2
   m_EditorClassIdentifier: 
   conditionSos:
-  - {fileID: 11400000, guid: 9f5ab0b131aeadb4090e2e13cefe3b27, type: 2}
-  conditionFailText: []
-  conditionSuccessText: []
+  - {fileID: 11400000, guid: 278c158033be13147bfdcdf6eb4e98c1, type: 2}
+  conditionFailText:
+  - 'After grappling with the guards'' cryptic responses, a spark ignites. Frantically,
+    you ask, "Would the other guard affirm this door''s safety?" The guard, bewildered,
+    shrugs. Yet certainty fills you as you confidently open the door, venturing deeper
+    into the dungeon''s embrace.     '
+  conditionSuccessText:
+  - "Baffled and vexed, you find yourself stumped by the guards' enigmatic responses.
+    Frustration boils within as humiliation looms. Pushing past them, you defiantly
+    choose the nearest door, embracing the unknown\u2014be it salvation or a defiant
+    end to this maddening puzzle.     "
   effectSos:
   - {fileID: 11400000, guid: a171d0118da00624883f4d5840da2fd1, type: 2}

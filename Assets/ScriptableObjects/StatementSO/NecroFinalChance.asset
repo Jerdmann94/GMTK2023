@@ -15,7 +15,11 @@ MonoBehaviour:
   conditionSos:
   - {fileID: 11400000, guid: 73200cc567ac7614d8b80f488055f504, type: 2}
   conditionFailText: []
-  conditionSuccessText: []
+  conditionSuccessText:
+  - 'With mastery of the arcane arts, you decipher the necromancer''s incantation.
+    Arcane energies crackle as you deftly counter, turning his own magic against
+    him. A cataclysm of necrosis consumes him, reducing him to naught but an ethereal
+    wisp.     '
   effectSos:
   - {fileID: 11400000, guid: cba37215dcdc4d844a8d939aef4b510a, type: 2}
   - {fileID: 11400000, guid: 6767e2ad362be4b4285b26e15e8de056, type: 2}

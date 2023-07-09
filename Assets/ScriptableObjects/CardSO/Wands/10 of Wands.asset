@@ -15,8 +15,10 @@ MonoBehaviour:
   statementSos:
   - {fileID: 11400000, guid: 1d5bd9304d2f4734481746064d877e23, type: 2}
   - {fileID: 11400000, guid: 2b2ce0096f6a1fb40beee7570a7c7ac4, type: 2}
-  cardSelectText: 
-  cardHoverText: 
+  cardSelectText: 'As you step into the necromancer''s lab, an eerie atmosphere surrounds
+    you. Strange machines hum with otherworldly energy, while esoteric texts whisper
+    hidden secrets, an arcane realm where the boundaries of life and death blur.     '
+  cardHoverText: The sizzle of necrotic energy...
   cardImage: {fileID: 21300000, guid: d7c5f4d4674359d41a4eeb5ccc4c0780, type: 3}
   invertedStatementSos:
   - {fileID: 11400000, guid: d6caac7217bebe948bfb2c5f3f2f5a3f, type: 2}
@@ -28,7 +30,10 @@ MonoBehaviour:
   - {fileID: 11400000, guid: cbe4d7dc018e0964e9f0f3d7e33c9856, type: 2}
   - {fileID: 11400000, guid: 532d7efc0a98cb64b81bf75e61627713, type: 2}
   - {fileID: 11400000, guid: cba5f40d2b4aee448b7b07da95c2e94c, type: 2}
-  invertedCardSelectText: 
-  invertedCardHoverText: 
+  invertedCardSelectText: 'Upon entering the necromancer''s lab, your gaze meets
+    the wicked wizard himself. He whirls, lifting his hands to unleash foul spells,
+    dark intentions coursing through his fingertips, poised to unleash their malevolence
+    upon you.     '
+  invertedCardHoverText: The sizzle of necrotic energy...
   normalRoomSprite: {fileID: 0}
   inverseRoomSprite: {fileID: 0}

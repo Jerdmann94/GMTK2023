@@ -15,6 +15,8 @@ MonoBehaviour:
   conditionSos:
   - {fileID: 11400000, guid: 9f5ab0b131aeadb4090e2e13cefe3b27, type: 2}
   conditionFailText: []
-  conditionSuccessText: []
+  conditionSuccessText:
+  - As you sip the potion, the toad's venomous fangs sink into your lips, searing
+    pain enveloping your being.
   effectSos:
   - {fileID: 11400000, guid: a171d0118da00624883f4d5840da2fd1, type: 2}

@@ -15,13 +15,17 @@ MonoBehaviour:
   statementSos:
   - {fileID: 11400000, guid: ab14971b8319cb8408ef4c48e93b88bd, type: 2}
   - {fileID: 11400000, guid: 071c0902be1937e40884837de707908f, type: 2}
-  cardSelectText: 
-  cardHoverText: 
+  cardSelectText: "Upon entering the dungeon room, a sight of macabre grandeur unfolds\u2014a
+    vast bone ossuary. A priest, stationed at the entrance, extends a cup, awaiting
+    alms to appease the spirits of the departed.     "
+  cardHoverText: The rattling of bones....
   cardImage: {fileID: 21300000, guid: b8ccbe0c88c8d2d42a77f43b9f0973c9, type: 3}
   invertedStatementSos:
   - {fileID: 11400000, guid: ffa3a36df161bb04b82cf19bffbd0833, type: 2}
   - {fileID: 11400000, guid: da80b232a5cf4cd4b941afc468ad1f5c, type: 2}
-  invertedCardSelectText: 
-  invertedCardHoverText: 
+  invertedCardSelectText: 'Entering the dungeon room, a bone ossuary looms. Skeletal
+    forms stir to life, grasping with bony limbs. Amidst the chaos, an alms cup,
+    brimming with coins, tempts just beyond the threshold, a perilous prize to attain.     '
+  invertedCardHoverText: The rattling of bones....
   normalRoomSprite: {fileID: 0}
   inverseRoomSprite: {fileID: 0}
